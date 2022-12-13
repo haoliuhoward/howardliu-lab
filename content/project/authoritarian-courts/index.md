@@ -1,7 +1,7 @@
 ---
 title: "Dictators and their Repressive Agents: Judicial Institution, Information Screening, and State Repression"
 authors:
-- admin
+- Howard Liu
 - Ching-Hsuan Su
 - Yi-Ting Wang
 date: "2022-01-20T00:00:00Z"

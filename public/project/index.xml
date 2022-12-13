@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Howard Liu</title>
+    <title>Publications | Human Rights Research Lab</title>
     <link>https://howardhliu.com/project/</link>
       <atom:link href="https://howardhliu.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -17,22 +17,6 @@
       <link>https://howardhliu.com/project/authoritarian-courts/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://howardhliu.com/project/authoritarian-courts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the Repression and Dissent Dynamics: A Network Approach</title>
-      <link>https://howardhliu.com/project/rd-network/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://howardhliu.com/project/rd-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Failure of an Imagined Community: Organizational Hierarchy and the Split of Rebel Groups</title>
-      <link>https://howardhliu.com/project/rebel-fragmentation/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://howardhliu.com/project/rebel-fragmentation/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teaching | Howard Liu</title>
+    <title>teaching | Human Rights Research Lab</title>
     <link>https://howardhliu.com/tag/teaching/</link>
       <atom:link href="https://howardhliu.com/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>teaching</description>
@@ -11,14 +11,6 @@
       <title>teaching</title>
       <link>https://howardhliu.com/tag/teaching/</link>
     </image>
-    
-    <item>
-      <title>GV900 - Political Explanation</title>
-      <link>https://howardhliu.com/teaching/gv900/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://howardhliu.com/teaching/gv900/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>POLI301 - The Political Science Discipline</title>

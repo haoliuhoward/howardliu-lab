@@ -1,9 +1,9 @@
 {
-  "name": "Howard Liu",
-  "short_name": "Howard Liu",
+  "name": "Human Rights Research Lab",
+  "short_name": "Human Rights Research Lab",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#EF525B",
+  "background_color": "#EF525B",
   "icons": [{
     "src": "/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://howardhliu.com/</loc>
+    <loc>https://howardhliu.com/author/human-rights-lab/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://howardhliu.com/author/howard-liu/</loc>
+    <loc>https://howardhliu.com/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://howardhliu.com/author/howard-liu/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://howardhliu.com/project/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -60,21 +65,6 @@
   <url>
     <loc>https://howardhliu.com/author/yi-ting-wang/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/bruce-desmarais/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/sangyeon-kim/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/moving-objects/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,72 +78,12 @@
   </url>
   
   <url>
-    <loc>https://howardhliu.com/author/cassy-dorff/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/juan-tellez/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/margaret-foster/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/max-gallop/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/michael-d.-ward/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/shahryar-minhas/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/netsmatter-2021/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://howardhliu.com/publication/chinaprotest-2020/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://howardhliu.com/author/david-siegel/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/beardsley-2020/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/kyle-beardsley/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/peter-mucha/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://howardhliu.com/talk/china/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/lost-2018/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,18 +93,38 @@
   </url>
   
   <url>
-    <loc>https://howardhliu.com/author/sophie-lee/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://howardhliu.com/author/cassy-dorff/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/juan-tellez/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/margaret-foster/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/max-gallop/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/michael-d.-ward/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/shahryar-minhas/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://howardhliu.com/talk/dyads/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/project/rd-network/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -184,12 +134,7 @@
   
   <url>
     <loc>https://howardhliu.com/author/chuyu-liu/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/project/rebel-fragmentation/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,11 +198,6 @@
   </url>
   
   <url>
-    <loc>https://howardhliu.com/teaching/gv900/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://howardhliu.com/courses/poli301/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -293,11 +233,6 @@
   </url>
   
   <url>
-    <loc>https://howardhliu.com/teaching/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://howardhliu.com/courses/lrdp-report/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -317,6 +252,10 @@
   
   <url>
     <loc>https://howardhliu.com/author/ching-hsuan-su/</loc>
+  </url>
+  
+  <url>
+    <loc>https://howardhliu.com/author/howard-liu/</loc>
   </url>
   
   <url>
