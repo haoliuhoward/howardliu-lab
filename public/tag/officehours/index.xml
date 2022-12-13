@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>officeHours | Howard Liu</title>
+    <link>https://howardhliu.com/tag/officehours/</link>
+      <atom:link href="https://howardhliu.com/tag/officehours/index.xml" rel="self" type="application/rss+xml" />
+    <description>officeHours</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Howard Liu.</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>officeHours</title>
+      <link>https://howardhliu.com/tag/officehours/</link>
+    </image>
+    
+    <item>
+      <title>Office Hours</title>
+      <link>https://howardhliu.com/meeting/officehour/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/meeting/officehour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

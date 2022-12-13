@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project3s | Howard Liu</title>
+    <link>/project3/</link>
+      <atom:link href="/project3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project3s</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Project3s</title>
+      <link>/project3/</link>
+    </image>
+    
+    <item>
+      <title>MPP in Guatemala</title>
+      <link>/project3/mpp-endline/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project3/mpp-endline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generasi in Indonesia</title>
+      <link>/project3/generasi-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project3/generasi-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI301 - The Political Science Discipline</title>
+      <link>/project3/poli301/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project3/poli301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI416 - Revolution and Political Violence</title>
+      <link>/project3/poli416/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project3/poli416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI437 - International Relations of Latin America</title>
+      <link>/project3/poli437/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project3/poli437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LRDP in Colombia</title>
+      <link>/project3/lrdp-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project3/lrdp-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

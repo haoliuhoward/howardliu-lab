@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Sullivan | Howard Liu</title>
+    <link>https://howardhliu.com/author/christopher-sullivan/</link>
+      <atom:link href="https://howardhliu.com/author/christopher-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Sullivan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Howard Liu.</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>Christopher Sullivan</title>
+      <link>https://howardhliu.com/author/christopher-sullivan/</link>
+    </image>
+    
+    <item>
+      <title>And the Heat Goes On: Police Repression and the Modalities of Power</title>
+      <link>https://howardhliu.com/publication/policing-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/policing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And the Heat Goes On: Police Repression and the Modalities of Power</title>
+      <link>https://howardhliu.com/talk/policing/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/policing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

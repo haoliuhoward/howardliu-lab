@@ -1,0 +1,562 @@
+
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	Statistical Analysis Service - Creative Proteomics
+</title>
+    <script>dataLayer = [{ "ip": "98.235.32.139" }];</script>
+    <script type="text/javascript">(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KHJ5GS');</script>
+    <meta name="author" content="Creative Proteomics" /><link href="/incl/css/public.css?v=2020" rel="stylesheet" /><link href="/incl/css/style.css?v=200328" rel="stylesheet" />
+    
+
+    <meta name="keywords" content="Statistical analysis, venn graph, volcano plot, physical and chemical properties, proteomics, bioinformatics service" />
+    <meta name="description" content="Creative Proteomics can provide statistical analysis to support your research in life sciences." />
+    
+
+    <link rel="canonical" href="https://www.creative-proteomics.com/services/statistical-analysis-service.htm" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Statistical Analysis Service" />
+    <meta property="og:description" content="Creative Proteomics can provide statistical analysis to support your research in life sciences." />
+    <meta property="og:url" content="https://www.creative-proteomics.com/services/statistical-analysis-service.htm" />
+    <meta property="og:site_name" content="Creative Proteomics" />
+<link rel="shortcut icon" href="/favicon.ico" />
+    <script src="/incl/js/jquery-3.1.1.min.js"></script>
+    <script src="/incl/js/menu.min.js"></script>
+    <script src="/incl/js/banner.min.js"></script>
+    <script src="/incl/js/scroll.products.js"></script>
+    <script src="/incl/js/scrolltopcontrol.js?v=200512"></script>
+    <script src="/incl/js/lazysizes.min.js"></script>
+    <script src="/incl/js/footer.js"></script>
+
+	
+</head>
+<body>
+    
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHJ5GS&ip=98.235.32.139" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+    
+    <div class="nav">
+        <div class="auto-header">
+            <a href="/"><img src="/images/logo.png" class="logo" /></a>
+            <div class="submit_search">
+                <form name="qForm" method="get" action="/search.aspx">
+                    
+                    <input name="q" type="text" placeholder="Search for..." />
+                    <div class="btn" onclick="document.qForm.submit()" style="display: inline"><a></a></div>
+                </form>
+            </div>
+            
+            <div class="menu">
+                <ul>
+                    <li><a href="/">Home</a>
+</li>
+<li><a href="/services.htm">Services</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/services/proteomics-service.htm">Proteomics Service</a>
+<ul class="navi-menu-3">
+<li><a href="/services/protein-gel-and-imaging-analysis.htm">Protein Gel and Imaging</a>
+</li>
+<li><a href="/services/protein-identification.htm">Protein Identification Services</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/sample-preparation.htm">Protein Sample Preparation</a></li>
+<li><a href="/services/digestion-in-gel-or-in-solution-2.htm">Digestion (in-gel or in-solution)</a></li>
+<li><a href="/services/molecular-weight-determination-and-molecular-weight-distribution-of-peptides-or-proteins.htm">Molecular Mass Determination Service</a></li>
+<li><a href="/services/purity-analysis-of-peptides-or-proteins.htm">Protein Purity and Homogeneity Characterization</a></li>
+<li><a href="/services/sequence-analysis-of-peptides-or-proteins.htm">Sequence Analysis of Peptides or Proteins</a></li>
+<li><a href="javascript:void(0);">Membrane Protein Identification</a></li>
+<li><a href="/services/accurate-mass-determination.htm">Accurate Mass Determination</a></li>
+<li><a href="/services/shotgun-protein-identification.htm">Shotgun Protein Identification</a></li>
+</ul>
+</li>
+<li><a href="/services/protein-quantification.htm">Protein Quantification</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/itraq-based-proteomics-analysis.htm">iTRAQ-based Proteomics Aanalysis</a></li>
+<li><a href="/services/tmt-based-proteomics-service.htm">TMT Based Proteomics Service</a></li>
+<li><a href="/services/silac-based-proteomics-analysis.htm">SILAC-based Proteomics Analysis</a></li>
+<li><a href="/services/absolute-quantification-aqua.htm">Absolute Quantification (AQUA)</a></li>
+<li><a href="javascript:void(0);">Label-free Quantification</a></li>
+<li><a href="/services/semi-quantitative-proteomics-analysis.htm">Semi-quantitative Proteomics Analysis</a></li>
+<li><a href="/services/parallel-reaction-monitoring-prm.htm">Parallel Reaction Monitoring (PRM)</a></li>
+<li><a href="/services/srm-mrm.htm">SRM & MRM</a></li>
+</ul>
+</li>
+<li><a href="/services/protein-post-translational-modification-analysis.htm">Protein Post-translational Modification Analysis</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/overview.htm">Overview</a></li>
+<li><a href="/services/di-sulfide-bond-localization.htm">Disulfide Bond</a></li>
+<li><a href="/services/glycosylation-analysis-of-protein.htm">Glycosylation Analysis of Protein</a></li>
+<li><a href="/services/phosphorylation.htm">Phosphorylation</a></li>
+<li><a href="/services/ubiquitination.htm">Ubiquitination</a></li>
+<li><a href="/services/s-nitrosylation.htm">S-Nitrosylation</a></li>
+<li><a href="/services/methylation.htm">Methylation</a></li>
+<li><a href="/services/n-acetylation.htm">Acetylation</a></li>
+<li><a href="/services/faq-post-translational-modification.htm">FAQ-Post Translational Modification</a></li>
+<li><a href="/services/characterization-of-protein-sumoylation.htm">SUMOylation</a></li>
+</ul>
+</li>
+<li><a href="/services/overview-of-top-down-proteomics.htm">Top Down Proteomics</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/top-down-based-sequencing.htm">Top Down-based Sequencing</a></li>
+<li><a href="/services/top-down-based-characterization-of-ptms.htm">Top Down-based Characterization of PTMs</a></li>
+<li><a href="/services/characterization-of-protein-structure.htm">Characterization of Protein Structure</a></li>
+</ul>
+</li>
+<li><a href="/services/overview-of-peptidomics.htm">Peptidomics Analysis</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/characterization-of-peptide-biomarkers.htm">Characterization of Peptide Biomarkers</a></li>
+<li><a href="/services/comprehensive-peptidomics-service.htm">Comprehensive Peptidomics Service</a></li>
+</ul>
+</li>
+<li><a href="/services/protein-protein-interaction-networks.htm">Protein-Protein Interaction Networks</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/co-immunoprecipitation-co-ip.htm">Co-immunoprecipitation (co-IP)</a></li>
+<li><a href="/services/crosslinking-protein-interaction-analysis.htm">Crosslinking Protein Interaction Analysis</a></li>
+<li><a href="/services/far-westernblot-analysis.htm">Far-Western Blot Analysis</a></li>
+<li><a href="/services/pull-down-assay.htm">Pull-Down Assay</a></li>
+<li><a href="/services/label-transfer-protein-interaction-analysis.htm">Label Transfer Protein Interaction Analysis</a></li>
+</ul>
+</li>
+<li><a href="/services/subcellular-proteomics.htm">Subcellular Proteomics</a>
+</li>
+<li><a href="/services/exosome-proteomics.htm">Exosome Proteomics</a>
+</li>
+<li><a href="/services/cell-surface-proteomics.htm">Cell Surface Proteomics</a>
+</li>
+<li><a href="/services/others.htm">Others</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/customized-experiments.htm">Customized Experiments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/services/metabolomics-service.htm">Metabolomics Service</a>
+<ul class="navi-menu-3">
+<li><a href="/services/untargeted-metabolomics.htm">Untargeted Metabolomics</a>
+</li>
+<li><a href="/services/targeted-metabolomics.htm">Targeted Metabolomics</a>
+</li>
+<li><a href="/services/metabolic-flux-analysis-mfa.htm">Metabolic Flux Analysis (MFA)</a>
+</li>
+<li><a href="/services/unknown-metabolites-identification.htm">Unknown Metabolites Identification</a>
+</li>
+<li><a href="/services/xenobiotic-metabolites-analysis.htm">Xenobiotic Metabolites Analysis</a>
+</li>
+<li><a href="/services/untargeted-lipidomics.htm">Untargeted Lipidomics</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/plant-untargeted-lipidomics.htm">Plant Untargeted Lipidomics</a></li>
+<li><a href="/services/yeast-untargeted-lipidomics.htm">Yeast Untargeted Lipidomics</a></li>
+<li><a href="/services/mammals-untargeted-lipidomics.htm">Mammals Untargeted Lipidomics</a></li>
+</ul>
+</li>
+<li><a href="/services/targeted-lipidomics.htm">Targeted Lipidomics</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/hexosylceramide.htm">Hexosylceramide</a></li>
+<li><a href="/services/diacylglycerol.htm">Diacylglycerol</a></li>
+<li><a href="/services/triglyceride.htm">Triglyceride</a></li>
+</ul>
+</li>
+<li><a href="/services/exosome-lipidomics.htm">Exosome LIpidomics</a>
+</li>
+<li><a href="/services/maldi-imaging-lipidomics-service.htm">MALDI-Imaging Lipidomics</a>
+</li>
+</ul>
+</li>
+<li><a href="/services/glycomics-service.htm">Glycomics Service</a>
+<ul class="navi-menu-3">
+<li><a href="/services/n-glycan-profiling-service.htm">N-Glycan Profiling</a>
+</li>
+<li><a href="/services/o-glycan-profiling-service.htm">O-Glycan Profiling</a>
+</li>
+<li><a href="/services/n-glycosylation-site-occupation-analysis.htm">N-Glycosylation Site Occupation</a>
+</li>
+<li><a href="/services/o-glycosylation-site-occupation-analysis.htm">O-Glycosylation Site Occupation</a>
+</li>
+<li><a href="/services/n-glycan-linkage-analysis.htm">N-Glycan Linkage Analysis</a>
+</li>
+<li><a href="/services/o-glycan-linkage-analysis.htm">O-Glycan Linkage Analysis</a>
+</li>
+<li><a href="/services/lignin-content-analysis.htm">Lignin Content Analysis</a>
+</li>
+<li><a href="/services/cellulose-content-analysis.htm">Cellulose Content Analysis</a>
+</li>
+<li><a href="/services/glycan-quantification.htm">Glycan Quantification</a>
+</li>
+<li><a href="/services/glycan-sequencing.htm">Glycan Sequencing</a>
+</li>
+<li><a href="/services/structural-characterization-of-glycans.htm">Structural Characterization of Glycans</a>
+</li>
+<li><a href="/services/glycopeptides-analysis.htm">Glycopeptides Analysis</a>
+</li>
+<li><a href="/services/glycan-related-microarray-assay.htm">Glycan-related Microarray Assay</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/glyco-gene-microarray-assay.htm">Glyco-gene Microarray Assay</a></li>
+<li><a href="/services/lectin-microarray-assay.htm">Lectin Microarray Assay</a></li>
+<li><a href="/services/glycan-microarray-assay.htm">Glycan Microarray Assay</a></li>
+<li><a href="/services/microbial-glycan-microarray-assay.htm">Microbial Glycan Microarray Assay</a></li>
+<li><a href="/services/glycopeptide-microarray-assay.htm">Glycopeptide Microarray Assay</a></li>
+</ul>
+</li>
+<li><a href="/services/polysaccharide-analysis.htm">Polysaccharide Analysis</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/molecular-weight-determination-of-polysaccharide.htm">Molecular Weight Determination of Polysaccharide</a></li>
+<li><a href="/services/determination-of-the-absolute-configuration.htm">Determination of the Absolute Configuration</a></li>
+<li><a href="/services/identification-of-the-anomeric-configuration.htm">Identification of the Anomeric Configuration</a></li>
+</ul>
+</li>
+<li><a href="/services/starch-analysis.htm">Starch Analysis</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/starch-amylose-content-analysis.htm">Starch / Amylose Content Analysis</a></li>
+<li><a href="/services/amylopectin-chain-length-distribution-profiling.htm">Amylopectin Chain Length Distribution Profiling</a></li>
+<li><a href="/services/granule-size-distribution-analysis.htm">Granule Size Distribution Analysis</a></li>
+<li><a href="/services/gelatinization-temperature-determination.htm">Gelatinization Temperature Determination</a></li>
+<li><a href="/services/thermal-stability-analysis.htm">Thermal Stability Analysis</a></li>
+</ul>
+</li>
+<li><a href="/services/peptidoglycan-structure-analysis.htm">Peptidoglycan Structure Analysis</a>
+</li>
+</ul>
+</li>
+<li><a href="/services/other-services.htm">Other Services</a>
+<ul class="navi-menu-3">
+<li><a href="/services/flow-cytometry-facs-service.htm">Flow Cytometry Service</a>
+</li>
+<li><a href="/services/de-novo-protein-sequence-analysis.htm">De Novo Peptides/Proteins Sequencing</a>
+</li>
+<li><a href="/services/peptide-mapping.htm">Peptide Mapping</a>
+</li>
+<li><a href="/services/de-novo-antibody-sequencing.htm">De Novo Antibody Sequencing</a>
+</li>
+<li><a href="/services/amino-acid-analysis-aaa.htm">Amino Acid Analysis (AAA)</a>
+</li>
+<li><a href="/services/host-cell-protein-analysis.htm">Host Cell Protein Analysis</a>
+</li>
+<li><a href="/services/bioanalysis-of-dna-methylations.htm">Bioanalysis of DNA Methylations</a>
+</li>
+<li><a href="/services/residual-dna-testing.htm">Residual DNA Testing</a>
+</li>
+<li><a href="/services/ames-test.htm">Ames Test</a>
+</li>
+</ul>
+</li>
+<li><a href="/services/peptide-characterization.htm">Peptide Characterization</a>
+<ul class="navi-menu-3">
+<li><a href="/services/peptide-purity-analysis.htm">Peptide Purity Analysis</a>
+</li>
+<li><a href="/services/structure-activity-relationship-sar-analysis.htm">Structure Activity Relationship (SAR) Analysis</a>
+</li>
+</ul>
+</li>
+<li><a href="/services/overview-of-bioinformatics-services.htm">Bioinformatics Service</a>
+<ul class="navi-menu-3">
+<li><a href="/services/bioinformatics-for-proteomics.htm">Bioinformatics for Proteomics</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/functional-annotation-and-enrichment-analysis-service.htm">Functional Annotation and Enrichment Analysis Service</a></li>
+<li><a href="/services/clustering-analysis-service.htm">Clustering Analysis Service</a></li>
+<li><a href="/services/statistical-analysis-service.htm">Statistical Analysis Service</a></li>
+<li><a href="/services/network-analysis-service.htm">Network Analysis Service</a></li>
+<li><a href="/services/proteomic-analysis-of-post-translational-modifications-service.htm">Proteomic Analysis of Post-translational Modifications Service</a></li>
+</ul>
+</li>
+<li><a href="/services/bioinformatic-analysis-for-metabolomics-study.htm">Bioinformatics for Metabolomics</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/bioinformatic-univariate-analysis-service.htm">Bioinformatic Univariate Analysis Service</a></li>
+<li><a href="/services/multivariate-analysis-service.htm">Multivariate Analysis Service</a></li>
+<li><a href="/services/clustering-analysis-service-for-metabolomics.htm">Clustering Analysis Service for Metabolomics</a></li>
+<li><a href="/services/bioinformatic-data-preprocess-and-normalization-service.htm">Bioinformatic Data Preprocess and Normalization Service</a></li>
+</ul>
+</li>
+<li><a href="/services/bioinformatics-for-protein.htm">Bioinformatics for Protein</a>
+<span class="navi-submenu"></span>
+<ul class="navi-menu-4">
+<li><a href="/services/protein-sequence-analysis-service.htm">Protein Sequence Analysis Service</a></li>
+<li><a href="/services/protein-structure-analysis-service.htm">Protein Structure Analysis Service</a></li>
+<li><a href="/services/protein-evolution-analysis-service.htm">Protein Evolution Analysis Service</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="javascript:void(0);">Applications</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/application/academic-analysis.htm">Academic</a>
+</li>
+<li><a href="/application/food-and-environment-analysis.htm">Environment</a>
+</li>
+<li><a href="/services/composition-analysis.htm">Chemical</a>
+</li>
+</ul>
+</li>
+<li><a href="javascript:void(0);">Products</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/services/customized-synthesized-peptide-proteins.htm">Customized Synthesized Peptide/Proteins</a>
+</li>
+<li><a href="/products/stable-isotope-labeled-full-length-ms-protein-standard_103.htm">Stable Isotope Labeled Full Length MS Protein Standard</a>
+</li>
+<li><a href="/products/stable-isotope-labeled-ms-peptide-standard_104.htm">Stable Isotope Labeled MS Peptide Standard</a>
+</li>
+<li><a href="/products/stable-isotope-labeled-fragment-protein-ms-standard_105.htm">Stable Isotope Labeled Fragment Protein (MS Standard)</a>
+</li>
+<li><a href="/products/stable-isotope-labeled-analytical-standard_80.htm">Stable Isotope Labeled Analytical Standard</a>
+</li>
+</ul>
+</li>
+<li><a href="javascript:void(0);">Support</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/support/analytical-service.htm">Chromatography Technology</a>
+</li>
+<li><a href="/support/spectroscopy-technology.htm">Spectroscopy Technology</a>
+</li>
+<li><a href="/support/overview-of-mass-spectrometric-platform.htm">Mass Spectrometry Platform</a>
+</li>
+</ul>
+</li>
+<li><a href="javascript:void(0);">Resource</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/resource/knowledge-bases.htm">Knowledge Bases</a>
+</li>
+<li><a href="/resource/support-documents.htm">Support Documents</a>
+</li>
+<li><a href="/resource/videos.htm">Videos</a>
+</li>
+</ul>
+</li>
+<li><a href="javascript:void(0);">Company</a>
+<ul class="navi-menu-2" style="display: none;">
+<li><a href="/about-us.htm"rel="nofollow">About Us</a>
+</li>
+<li><a href="/contact-us.htm"rel="nofollow">Contact Us</a>
+</li>
+<li><a href="/distributors.htm">Distributor</a>
+</li>
+</ul>
+</li>
+<li><a href="/order-online.aspx">Order Online</a>
+</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+
+    
+    
+    <div class="banner_inpage services_bg page-326">
+        <div class="auto-container">
+            
+            <h1>Services</h1>
+            
+            <p>
+                <a href="/">Home</a> > <a href="/services.htm">Services</a> > <a href="/services/overview-of-bioinformatics-services.htm">Bioinformatics Service</a> > <a href="/services/bioinformatics-for-proteomics.htm">Bioinformatics for Proteomics</a> > Statistical Analysis Service
+            </p>
+        </div>
+    </div>
+
+    
+    <div class="services-container">
+        
+        <div class="inpage_left">
+            <div class="inpage_section_title">
+                <h1>Statistical Analysis Service</h1>
+                <hr />
+            </div>
+
+            <p><img src="/images/Statistical-Analysis-Service.jpg" alt="Statistical Analysis Service" class="img-responsive center-block" /></p><p>Statistical analysis is the study of the collection, organization, examination, summarization, manipulation, interpretation and presentation of quantitative data. It handles all aspects of data including the planning of data collection based on the design of surveys and experiments. Statistical analysis is part of data analytics. The purpose of statistical analysis is to determine trends. There are two statistic methods: descriptive and inferential statistics.</p><p> <strong>Descriptive statistics</strong>: A statistic is a number that is obtained from data, for example an average or a standard deviation. It can be very helpful when examining data to get a suitable group of relevant descriptive statistics. Especially, it can be very interesting to study statistics obtained from different (but related) columns, or between levels of a factor. This gives an idea of the similarities or differences between the data.</p><p> <strong>Inferential statistics</strong>: After data exploration, with the help of visualization and description techniques, one will need to determine what formal statistical analysis technique is required to investigate the data further and to come to general conclusions. A large number of statistical techniques have been developed to deal with many different types of data and create relationships between them.</p><p class="mb-0"><strong>Several statistical analysis can be provided by Creative Proteomics, including:</strong></p><ul class="ls-dot">  <li><a href="/services/venn-diagram-service.htm">Venn chart</a></li>  <li><a href="/services/volcano-plot-service.htm">Volcano plot</a></li>  <li><a href="/services/feature-selection-service.htm">Feature selection</a></li>  <li><a href="/services/physicochemical-property-analysis-service.htm">Physical and chemical properties analysis</a></li></ul><p> <strong>How to place an order:</strong><br />  <img src="/images/How-To-Place-your-Order-2.jpg" alt="How To Place your Order" class="img-responsive center-block" /> </p><p> <strong>*If your organization requires signing of a confidentiality agreement, please contact us by email</strong> </p><p>As one of the leading omics industry company in the world! Creative Proteomics now is opening to provide statistical analysis service for our customers. With over 8 years experience in the field of bioinformatics, we are willing to provide our customer the most outstanding service!&nbsp;<a href="/order.htm?i1=Statistical%20Analysis%20Service">Contact us for all the detailed informations!</a></p><br />
+            
+            <div style="display: none;">
+                <a href="/order.htm?i1=Statistical+Analysis+Service" rel="nofollow"><span class="buttonbg">INQUIRY</span></a>
+            </div>
+            <div class="services_bottom">
+                Our customer service representatives are available 24 hours a day, 7 days a week. 
+                    <a href="/order.htm?i1=Statistical%20Analysis%20Service" class="btn">Inquiry</a>
+            </div>
+            
+        </div>
+        
+        <div class="inpage_right">
+            <div class="right_nav">
+                <div class="left_inquiry">
+    <h1>Online Inquiry</h1>
+    <p>
+        Please submit a detailed description of your project. We will provide you with a customized project plan to
+        meet your research requests. You can also send emails directly to <a class="email-info"></a>
+        for inquiries.
+    </p>
+    <form id="form-inquiry" autocomplete="off" name="form-inquiry" class="left_Inquiry_form">
+        <ul>
+            <li>
+                <input type="text" name="email" id="email" class="validate[required,custom[email]]" placeholder="* Email: " readonly="readonly"/>
+            </li>
+            <li>
+                <input type="text" name="phone" class="validate[required]" placeholder="Phone: " readonly="readonly"/>
+            </li>
+            <li>
+                <input type="text" name="topic" id="topic"  value="Statistical Analysis Service" class="validate[required]" placeholder="* Service & Products of Interest: " readonly="readonly"/>
+            </li>
+            <li>
+                <textarea name="description" cols="40" rows="4" placeholder="Services Required and Project Description: "></textarea>
+            </li>
+            <li>
+                <input type="text" class="validate[required]" name="code" id="code" size="15" placeholder="* Verification Code" readonly="readonly"/>
+                <label>Please input "<b>proteomics</b>" as verification code.</label>
+            </li>
+            <li>
+                <button class="submit" onclick="javascript:return inquirySubmit();">SUBMIT</button>
+            </li>
+        </ul>
+    </form>
+</div>
+
+            </div>
+
+            <div class="right_nav">
+    <dl class="list_dl">
+        <h1>Related Services</h1>
+        <dt class="list_dt">
+            <span class="_after"></span>
+            <p><a href="/services/proteomics-service.htm">Proteomics Service</a></p>
+            <i class="list_dt_icon"></i>
+        </dt>
+        <dd class="list_dd">
+            <ul>
+                <li class="list_li"> <a href="/services/protein-gel-and-imaging-analysis.htm">Protein Gel and Imaging</a> </li>
+                <li class="list_li"> <a href="/services/protein-identification.htm">Protein Identification</a></li>
+                <li class="list_li"> <a href="/services/protein-quantification.htm">Protein Quantification</a> </li>
+                <li class="list_li"> <a href="/services/protein-post-translational-modification-analysis.htm">Protein Post-translational Modification Analysis</a> </li>
+                <li class="list_li"><a href="/services/overview-of-top-down-proteomics.htm">Top Down Proteomics</a></li>
+                <li class="list_li"> <a href="/services/overview-of-peptidomics.htm">Peptidomics</a> </li>
+                <li class="list_li"> <a href="/services/protein-protein-interaction-networks.htm">Protein Protein Interaction Networks</a></li>
+                <li class="list_li"><a href="/services/subcellular-proteomics.htm">Subcellular Proteomics </a></li>
+                <li class="list_li"> <a href="/services/others.htm">Others</a> </li>
+            </ul>
+        </dd>
+        <dt class="list_dt">
+            <span class="_after"></span>
+            <p><a href="javascript:void(0);">Metabolomics Service</a></p>
+            <i class="list_dt_icon"></i>
+        </dt>
+        <dd class="list_dd">
+            <ul>
+                <li class="list_li"> <a href="/services/menu-of-metabolomics-services.htm">Overview of Metabolomics Services</a></li>
+                <li class="list_li"> <a href="/services/untargeted-metabolomics.htm">Untargeted Metabolomics</a></li>
+                <li class="list_li"> <a href="/services/targeted-metabolomics.htm">Targeted Metabolomics</a></li>
+                <li class="list_li"> <a href="/services/lipidomics.htm">Lipidomics</a></li>
+                <li class="list_li"> <a href="/services/xenobiotic-metabolites-analysis.htm">Xenobiotic Metabolites Analysis</a></li>
+                <li class="list_li"> <a href="/services/determination-of-amino-acid-composition.htm">Determination of Amino Acid Composition</a></li>
+            </ul>
+        </dd>
+        <dt class="list_dt">
+            <span class="_after"></span>
+            <p><a href="/services/overview-of-bioinformatics-services.htm">Bioinformatics Service</a></p>
+            <i class="list_dt_icon"></i>
+        </dt>
+        <dd class="list_dd">
+            <ul>
+                <li class="list_li"> <a href="/services/menu-of-metabolomics-services.htm">Overview of Metabolomics Services</a></li>
+                <li class="list_li"> <a href="/services/untargeted-metabolomics.htm">Untargeted Metabolomics</a></li>
+                <li class="list_li"> <a href="/services/targeted-metabolomics.htm">Targeted Metabolomics</a></li>
+                <li class="list_li"> <a href="/services/lipidomics.htm">Lipidomics</a></li>
+                <li class="list_li"> <a href="/services/xenobiotic-metabolites-analysis.htm">Xenobiotic Metabolites Analysis</a></li>
+                <li class="list_li"> <a href="/services/determination-of-amino-acid-composition.htm">Determination of Amino Acid Composition</a></li>
+            </ul>
+        </dd>
+        <dt class="list_dt">
+            <span class="_after"></span>
+            <p><a href="javascript:void(0);">Other Services</a></p>
+            <i class="list_dt_icon"></i>
+        </dt>
+        <dd class="list_dd">
+            <ul>
+                <li class="list_li"><a href="/services/peptide-mass-fingerprinting-pmf.htm">Peptide Mass Fingerprinting (PMF) </a></li>
+                <li class="list_li"><a href="/services/de-novo-protein-sequence-analysis.htm">De Novo Peptides/Proteins Sequencing</a></li>
+                <li class="list_li"><a href="/services/peptide-mapping.htm">Peptide Mapping</a></li>
+                <li class="list_li"><a href="/services/de-novo-antibody-sequencing.htm"><i>De Novo</i> Antibody Sequencing</a></li>
+                <li class="list_li"><a href="/services/amino-acid-analysis-aaa.htm">Amino Acid Analysis</a></li>
+                <li class="list_li"><a href="/services/host-cell-protein-analysis.htm">Host Cell Protein Analysis</a></li>
+                <li class="list_li"><a href="/services/bioanalysis-of-dna-methylations.htm">Bioanalysis of DNA Methylations</a></li>
+                <li class="list_li"><a href="/services/residual-dna-testing.htm">Residual DNA Testing</a></li>
+                <li class="list_li"><a href="/services/ames-test.htm">Ames Test</a></li>
+                <li class="list_li"><a href="/services/identification-of-bacterial-strains.htm">Identification of Bacterial Strains</a></li>
+                <li class="list_li"><a href="/services/composition-analysis.htm">Composition Analysis</a></li>
+            </ul>
+        </dd>
+    </dl>
+</div>
+            
+        </div>
+        
+    </div>
+
+    
+    <div class="contact_bottom">
+        <div class="contact_container">
+            <div class="row">
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                    <h3>Services</h3>
+                    <p><a href="/services/proteomics-service.htm">Proteomics Service</a></p>
+                    <p><a href="/services/metabolomics-service.htm">Metabolomics Service</a></p>
+                    <p><a href="/services/glycomics-service.htm">Glycomics Service</a></p>
+                    <p><a href="/services/cell-based-assay.htm">Cell-Based Assay</a></p>
+                    <p><a href="/services/overview-of-bioinformatics-services.htm">Bioinformatics Service</a></p>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                    <h3>Stay in Contact</h3>
+                    <ul class="list-style-two">
+                        <li><span class="icon fa fa-map-marker"></span>45-1 Ramsey Road, Shirley, NY 11967, USA</li>
+                        <li><span class="icon fa fa-phone"></span><strong>Tel:</strong> 1-631-275-3058 (USA)</li>
+                        <li><strong>Tel:</strong> 44-208-144-6005 (Europe)</li>
+                        <li><span class="icon fa fa-fax"></span><strong>Fax:</strong> 1-631-614-7828</li>
+                        <li><span class="icon fa fa-envelope-o"></span><strong>Email:</strong> <a class="email-info"></a></li>
+                    </ul>
+                    <ul class="social-icon-two">
+                        <li><a href="https://www.facebook.com/pages/Creative-proteomics/842406995793038?ref=hl"><span class="fa fa-facebook"></span></a></li>
+                        <li><a href="https://twitter.com/CDProteomics"><span class="fa fa-twitter"></span></a></li>
+                        
+                        <li><a href="https://www.linkedin.com/company/creative-proteomics"><span class="fa fa-linkedin-square"></span></a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                    <h3>Quick Links</h3>
+                    <div class="contact_item">
+                        
+                        <p><a href="/about-us.htm">About Us</a></p>
+                        <p><a href="/trending-newsletter.htm">Trending Newsletter</a></p>
+                        <p><a href="/blog/">Blog</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="bottom_cop">© 2008-2020 <a href="/">Creative Proteomics</a>. All rights reserved.</div>
+    
+   <script type="text/javascript" src="/incl/js/jquery.tabs.js"></script>
+    <script type="text/javascript">
+        $(".list_dt").on("click", function () {
+            $('.list_dd').stop();
+            $(this).siblings("dt").removeAttr("id");
+            if ($(this).attr("id") == "open") {
+                $(this).removeAttr("id").siblings("dd").slideUp();
+            } else {
+                $(this).attr("id", "open").next().slideDown().siblings("dd").slideUp();
+            }
+        });
+    </script>
+
+</body>
+</html>

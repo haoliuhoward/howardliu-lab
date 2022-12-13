@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Howard Liu</title>
+    <link>https://howardhliu.com/post/</link>
+      <atom:link href="https://howardhliu.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Howard Liu.</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://howardhliu.com/post/</link>
+    </image>
+    
+    <item>
+      <title>MPP in Guatemala</title>
+      <link>https://howardhliu.com/post/mpp-endline/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/mpp-endline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generasi in Indonesia</title>
+      <link>https://howardhliu.com/post/generasi-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/generasi-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI301 - The Political Science Discipline</title>
+      <link>https://howardhliu.com/post/poli301/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI416 - Revolution and Political Violence</title>
+      <link>https://howardhliu.com/post/poli416/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI437 - International Relations of Latin America</title>
+      <link>https://howardhliu.com/post/poli437/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LRDP in Colombia</title>
+      <link>https://howardhliu.com/post/lrdp-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/lrdp-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

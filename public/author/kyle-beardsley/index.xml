@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Beardsley | Howard Liu</title>
+    <link>https://howardhliu.com/author/kyle-beardsley/</link>
+      <atom:link href="https://howardhliu.com/author/kyle-beardsley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Beardsley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Howard Liu.</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>Kyle Beardsley</title>
+      <link>https://howardhliu.com/author/kyle-beardsley/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchy and the Provision of Order in International Politics</title>
+      <link>https://howardhliu.com/publication/beardsley-2020/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/beardsley-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

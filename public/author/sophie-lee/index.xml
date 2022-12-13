@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Lee | Howard Liu</title>
+    <link>https://howardhliu.com/author/sophie-lee/</link>
+      <atom:link href="https://howardhliu.com/author/sophie-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Howard Liu.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>Sophie Lee</title>
+      <link>https://howardhliu.com/author/sophie-lee/</link>
+    </image>
+    
+    <item>
+      <title>Lost in Space: Geolocation in Event Data</title>
+      <link>https://howardhliu.com/publication/lost-2018/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/lost-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

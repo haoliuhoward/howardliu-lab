@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassy Dorff | Howard Liu</title>
+    <link>https://howardhliu.com/author/cassy-dorff/</link>
+      <atom:link href="https://howardhliu.com/author/cassy-dorff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cassy Dorff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Howard Liu.</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_2.png</url>
+      <title>Cassy Dorff</title>
+      <link>https://howardhliu.com/author/cassy-dorff/</link>
+    </image>
+    
+    <item>
+      <title>Taking Dyads Seriously</title>
+      <link>https://howardhliu.com/publication/netsmatter-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/netsmatter-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking Dyads Seriously</title>
+      <link>https://howardhliu.com/talk/dyads/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/dyads/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
