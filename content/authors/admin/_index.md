@@ -77,7 +77,7 @@ user_groups:
 
 ---
 
-Welcome! My lab's current research focuses on state violence and human rights violations. Our team members study the components of repressive states and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. 
+Welcome! My lab's current research focuses on state violence and human rights violations. Our team members study repressive regimes and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. 
 
-We foster a collaborative environment in our lab, offering opportunities for research collaboration and mentorship.
+In the lab, we collaborate. The lab environment offers opportunities for research and mentorship.
 
