@@ -1,265 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://howardhliu.com/publication-type/2/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/authors/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/white-terror/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/human-rights-lab/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication_types/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication-type/3/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/ching-hsuan-su/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/project/authoritarian-courts/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/howard-liu/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/project/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/yi-ting-wang/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/policing-2021/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/christopher-sullivan/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://howardhliu.com/publication/chinaprotest-2020/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/author/conflict-peace-lab/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/talk/china/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://howardhliu.com/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/talk/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://howardhliu.com/publication-type/3/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/author/cassy-dorff/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/juan-tellez/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/margaret-foster/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/max-gallop/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/michael-d.-ward/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/shahryar-minhas/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/talk/dyads/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/talk/policing/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://howardhliu.com/author/christopher-sullivan/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhliu.com/author/chuyu-liu/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/talk/hierarchy/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/talk/road-warrior/</loc>
     <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/mpp-endline/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/mpp-endline/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/tag/report/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/tags/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/generasi-report/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/generasi-report/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/poli301/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/poli301/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/poli416/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/poli416/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/poli437/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/poli437/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/tag/teaching/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/courses/lrdp-report/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/post/lrdp-report/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/people/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://howardhliu.com/author/ching-hsuan-su/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://howardhliu.com/author/deki-peldon/</loc>
+  </url><url>
     <loc>https://howardhliu.com/author/howard-liu/</loc>
+  </url><url>
+    <loc>https://howardhliu.com/author/jieun-byeon/</loc>
+  </url><url>
+    <loc>https://howardhliu.com/publication/</loc>
   </url>
-  
-  <url>
-    <loc>https://howardhliu.com/author/yi-ting-wang/</loc>
-  </url>
-  
 </urlset>

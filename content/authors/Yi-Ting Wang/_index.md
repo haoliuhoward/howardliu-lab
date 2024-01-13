@@ -24,11 +24,11 @@ interests:
 
 # Organizations/Affiliations
 organizations:
-- name: National Pintung University
+- name: National Cheng Kung University
   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Asssociate Professor <br/> Department of Political Science
+role: Asssociate Professor <br/> Department of Political Science <br/> [National Cheng Kung University](https://www.ncku.edu.tw/ 'National Cheng Kung University')
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,9 +63,8 @@ title: Yi-Ting Wang
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Lab Co-Director
 # - Principal Investigators
-# - Researchers
+- Co-Investigators
 
 
 ---

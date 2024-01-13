@@ -25,10 +25,10 @@ interests:
 # Organizations/Affiliations
 organizations:
 - name: National Pintung University
-  url: "https://www.ncku.edu.tw/"
+  url: "https://eng.nptu.edu.tw/"
   
 # Role/position
-role: Assisstant Professor <br/> Department of Social Development
+role: Assistant Professor <br/> Department of Social Development  <br/> [National Pintung University](https://eng.nptu.edu.tw/ 'National Pintung University')
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,9 +63,9 @@ title: Ching-Hsuan Su
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Lab Co-Director
+# - Lab Co-Director
 # - Principal Investigators
-# - Researchers
+- Co-Investigators
 
 
 ---

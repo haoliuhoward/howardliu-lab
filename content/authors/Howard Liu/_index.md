@@ -37,7 +37,7 @@ organizations:
   
   
 # Role/position
-role: Assistant Professor <br/> Department of Political Science
+role: Assistant Professor <br/> Department of Political Science <br/> [University of South Carolina](https://sc.edu/ 'University of South Carolina')
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -72,8 +72,9 @@ title: Howard Liu
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Lab Founder & Co-Director
-# - Principal Investigators
+# - Lab Founder & Co-Director
+- Principal Investigator
+# - Graduate student
 # - Researchers
 
 

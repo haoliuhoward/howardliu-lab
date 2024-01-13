@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Human Rights Research Lab @UofSC
+name: Conflict & Peace Lab @UofSC
 # Username (this should match the folder name)
 # authors:
 # - Howard Liu
@@ -66,7 +66,7 @@ social:
   
 # Is this the primary user of the site?
 superuser: true
-title: Human Rights Lab
+title: Conflict & Peace Lab
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -77,4 +77,7 @@ user_groups:
 
 ---
 
-Welcome! This is who we are.
+Welcome! My lab's current research focuses on state violence and human rights violations. Our team members study the components of repressive states and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. 
+
+We foster a collaborative environment in our lab, offering opportunities for research collaboration and mentorship.
+

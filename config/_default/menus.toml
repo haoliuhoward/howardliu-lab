@@ -6,26 +6,26 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 05
-  
+  weight = 5
+
 [[main]]
   name = "Team"
   url = "#people"
   weight = 10
-  
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 20
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 30
+#[[main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 30
   
 
 [[main]]
-  name = "Working Papers"
+  name = "Research Projects"
   url = "#projects"
   weight = 35
 
