@@ -1,34 +1,34 @@
 ---
 # Display name
-name: Yi-Ting Wang
+name: Chuyu Liu
 # Username (this should match the folder name)
 authors:
-- Yi-Ting Wang
+- Chuyu Liu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include state repression, protest, dictatorship, armed conflict, and networks.
 education:
   courses:
   - course: PhD in Political Science
-    institution: Duke University
-    year: 2013
+    institution: Penn State University
+    year: 2019
 
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yitingw@mail.ncku.edu.tw"
+email: "c.liu3@uva.nl"
 
 # Interest shown on the main page
 interests:
-- Transitional Justice
-- Authoritarianism
+- Chinese Politics
+- Ethnic Conflict
 
 # Organizations/Affiliations
 organizations:
-- name: National Cheng Kung University
+- name: National Pintung University
   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Associate Professor <br/> Department of Political Science <br/> [National Cheng Kung University](https://www.ncku.edu.tw/ 'National Cheng Kung University')
+role: Assistant Professor <br/> Department of Political Science <br/> [University of Amsterdam](https://www.uva.nl/en 'University of Amsterdam')
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,7 +58,7 @@ role: Associate Professor <br/> Department of Political Science <br/> [National 
   
 # Is this the primary user of the site?
 superuser: false
-title: Yi-Ting Wang
+title: Chuyu Liu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
