@@ -6,7 +6,7 @@ authors:
 - Deki Peldon
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests xxx.
+bio: My research interests.
 
 
     
@@ -15,8 +15,10 @@ email: "dpeldon@email.sc.edu"
 
 # Interest shown on the main page
 interests:
-- Conflict
 - Human rights
+- Repression
+- Political transitions
+
 
 # Organizations/Affiliations
 organizations:
@@ -64,5 +66,7 @@ user_groups:
 # - Principal Investigators
 # - Researchers
 
-
 ---
+
+
+Deki Peldon is a Ph.D. student at the Department of Political Science at the University of South Carolina. She is majoring in International Relations, with a focus on Comparative Politics. Her research interests include topics related to state repression, human rights violations, and political transitions. Prior to pursuing a Ph.D., Deki earned a Master of Arts (MA) in International and Comparative Politics from Wright State University, Ohio. She also completed a Bachelor of Arts (BA) in Politics, Philosophy, and Economics with a minor in Developmental Economics from the Asian University of Women in Bangladesh. Deki has eight years of experience working as an Assistant Lecturer and later as an Associate Lecturer at the College of Language and Culture Institute, Royal University of Bhutan.

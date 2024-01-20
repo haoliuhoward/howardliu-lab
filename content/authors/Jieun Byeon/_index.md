@@ -11,11 +11,11 @@ bio: My research interests xxx.
 
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jbyeon@email.sc.edu"
 
 # Interest shown on the main page
 interests:
-- Transitional Justice
+- Conflict & Peace
 
 # Organizations/Affiliations
 organizations:
@@ -65,3 +65,5 @@ user_groups:
 
 
 ---
+
+Jieun Byeon is a Ph.D. student in Political Science at the University of South Carolina. She is interested in East Asian regional security, interstate conflicts, and conflict management and resolution. She holds a M.A. in Political Science from National Taiwan University (Taiwan), and a B.A.A. in Business Administration and a B.A. in Chinese Culture from Sogang University (South Korea).
