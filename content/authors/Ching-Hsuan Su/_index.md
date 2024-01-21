@@ -65,7 +65,7 @@ title: Ching-Hsuan Su
 user_groups:
 # - Lab Co-Director
 # - Principal Investigators
-- Co-Investigators
+- Current Co-Investigators
 
 
 ---
