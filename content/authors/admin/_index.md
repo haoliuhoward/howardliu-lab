@@ -26,8 +26,8 @@ name: Conflict & Peace Lab @UofSC
 interests:
 - State Repression
 - Protest
-- Dictatorship
-- Armed Conflicts
+- Authoritarian politics
+- Armed conflicts
 - Networks
 
 # Organizations/Affiliations

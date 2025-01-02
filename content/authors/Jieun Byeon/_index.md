@@ -9,7 +9,7 @@ authors:
 bio: My research interests xxx.
 
 
-    
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jbyeon@email.sc.edu"
 
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: University of South Carolina
   url: "https://sc.edu/"
-  
+
 # Role/position
 role: Graduate student <br/> Department of Political Science  <br/> [University of South Carolina](https://sc.edu/ 'University of South Carolina')
 
@@ -46,17 +46,17 @@ role: Graduate student <br/> Department of Political Science  <br/> [University 
 #   icon_pack: far
 #   link: https://calendly.com/howard-hl-liu/office-hour-meeting-15-minutes
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/liu_cv.pdf
-  
+
 # Is this the primary user of the site?
 superuser: false
 title: Jieun Byeon
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 # - Lab Co-Director
 - Graduate students

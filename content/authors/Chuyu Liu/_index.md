@@ -1,34 +1,34 @@
 ---
-# Display name
-name: Chuyu Liu
-# Username (this should match the folder name)
-authors:
-- Chuyu Liu
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include state repression, protest, dictatorship, armed conflict, and networks.
-education:
-  courses:
-  - course: PhD in Political Science
-    institution: Penn State University
-    year: 2019
-
-    
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "c.liu3@uva.nl"
-
-# Interest shown on the main page
-interests:
-- Chinese Politics
-- Ethnic Conflict
-
-# Organizations/Affiliations
-organizations:
-- name: National Pintung University
-  url: "https://www.ncku.edu.tw/"
-  
-# Role/position
-role: Assistant Professor <br/> Department of Political Science <br/> [University of Amsterdam](https://www.uva.nl/en 'University of Amsterdam')
+# # Display name
+# name: Chuyu Liu
+# # Username (this should match the folder name)
+# authors:
+# - Chuyu Liu
+# 
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include state repression, protest, dictatorship, armed conflict, and networks.
+# education:
+#   courses:
+#   - course: PhD in Political Science
+#     institution: Penn State University
+#     year: 2019
+# 
+#     
+# # Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: "c.liu3@uva.nl"
+# 
+# # Interest shown on the main page
+# interests:
+# - Chinese Politics
+# - Ethnic Conflict
+# 
+# # Organizations/Affiliations
+# organizations:
+# - name: National Pintung University
+#   url: "https://www.ncku.edu.tw/"
+#   
+# # Role/position
+# role: Assistant Professor <br/> Department of Political Science <br/> [University of Amsterdam](https://www.uva.nl/en 'University of Amsterdam')
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,15 +56,15 @@ role: Assistant Professor <br/> Department of Political Science <br/> [Universit
 #   icon_pack: ai
 #   link: files/liu_cv.pdf
   
-# Is this the primary user of the site?
-superuser: false
-title: Chuyu Liu
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-# - Principal Investigators
-- Current Co-Investigators
+# # Is this the primary user of the site?
+# superuser: false
+# title: Chuyu Liu
+# 
+# # Organizational groups that you belong to (for People widget)
+# #   Set this to `[]` or comment out if you are not using People widget.  
+# user_groups:
+# # - Principal Investigators
+# - Current Co-Investigators
 
 
 ---

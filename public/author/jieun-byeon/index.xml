@@ -5,12 +5,20 @@
     <link>https://howardhliu.com/author/jieun-byeon/</link>
       <atom:link href="https://howardhliu.com/author/jieun-byeon/index.xml" rel="self" type="application/rss+xml" />
     <description>Jieun Byeon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Howard Liu.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Howard Liu.</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_3.png</url>
       <title>Jieun Byeon</title>
       <link>https://howardhliu.com/author/jieun-byeon/</link>
     </image>
+    
+    <item>
+      <title>North Korea Human Rights Abuses</title>
+      <link>https://howardhliu.com/project/north-korea-hr-proj/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/project/north-korea-hr-proj/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
