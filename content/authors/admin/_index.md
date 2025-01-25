@@ -66,7 +66,7 @@ social:
   
 # Is this the primary user of the site?
 superuser: true
-title: Conflict & Peace Lab
+title: Liu Research Lab
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
