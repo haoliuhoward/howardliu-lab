@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Conflict & Peace Lab @UofSC
+name: Liu Research Lab
 # Username (this should match the folder name)
 # authors:
 # - Howard Liu
@@ -79,6 +79,6 @@ user_groups:
 
 Welcome! This lab's current research focuses on state violence and human rights violations. Our team members study repressive regimes and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. The collaborative environment in the lab offers students opportunities for research and mentorship.
 
-The lab's funding has been provided by the Chiang Ching-kuo Foundation for International Scholarly Exchange and College of Arts & Sciences at University of South Carolina.
+The lab has been funded by external sources such as the *National Science Foundation* and *Chiang Ching-kuo Foundation for International Scholarly Exchange*, as well as internal sources such as *McCausland College of Arts & Sciences at University of South Carolina*.
 
 

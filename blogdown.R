@@ -2,6 +2,8 @@
 blogdown::build_site()
 blogdown::serve_site()
 
+blogdown::stop_server()
+
 # Let's check hugo version
 blogdown::check_hugo()
 

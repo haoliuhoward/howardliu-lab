@@ -31,9 +31,9 @@ interests:
 - Networks
 
 # Organizations/Affiliations
-organizations:
-- name: University of South Carolina
-  url: "https://sc.edu/"
+# organizations:
+# - name: University of South Carolina
+#   url: "https://sc.edu/"
   
   
 # Role/position

@@ -18,17 +18,17 @@ education:
 email: "chsu@mail.nptu.edu.tw"
 
 # Interest shown on the main page
-interests:
-- Transitional Justice
-- Authoritarianism
+# interests:
+# - Transitional Justice
+# - Authoritarianism
 
 # Organizations/Affiliations
-organizations:
-- name: National Pintung University
-  url: "https://eng.nptu.edu.tw/"
+# organizations:
+# - name: National Pintung University
+#   url: "https://eng.nptu.edu.tw/"
   
 # Role/position
-role: Assistant Professor <br/> Department of Social Development  <br/> [National Pintung University](https://eng.nptu.edu.tw/ 'National Pintung University')
+role: Assistant Professor <br/> Department of Social Development  <br/> [National Pintung University](https://eng.nptu.edu.tw/ 'National Pintung University') <br/> [Personal website](https://social.nptu.edu.tw/p/404-1128-129964.php?Lang=zh-tw)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

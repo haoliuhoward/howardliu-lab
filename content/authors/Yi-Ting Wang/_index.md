@@ -18,17 +18,17 @@ education:
 email: "yitingw@mail.ncku.edu.tw"
 
 # Interest shown on the main page
-interests:
-- Transitional Justice
-- Authoritarianism
+# interests:
+# - Transitional Justice
+# - Authoritarianism
 
 # Organizations/Affiliations
 organizations:
-- name: National Cheng Kung University
-  url: "https://www.ncku.edu.tw/"
+# - name: National Cheng Kung University
+#   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Associate Professor <br/> Department of Political Science <br/> [National Cheng Kung University](https://www.ncku.edu.tw/ 'National Cheng Kung University')
+role: Associate Professor <br/> Department of Political Science <br/> [National Cheng Kung University](https://www.ncku.edu.tw/ 'National Cheng Kung University') <br/> [Personal website](https://yitingw.com/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

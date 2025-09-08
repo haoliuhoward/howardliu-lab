@@ -18,9 +18,9 @@ interests:
 - Conflict & Peace
 
 # Organizations/Affiliations
-organizations:
-- name: University of South Carolina
-  url: "https://sc.edu/"
+# organizations:
+# - name: University of South Carolina
+#   url: "https://sc.edu/"
 
 # Role/position
 role: Graduate student <br/> Department of Political Science  <br/> [University of South Carolina](https://sc.edu/ 'University of South Carolina')
@@ -59,7 +59,7 @@ title: Jieun Byeon
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 # - Lab Co-Director
-- Graduate students
+# - Graduate students
 # - Principal Investigators
 # - Researchers
 

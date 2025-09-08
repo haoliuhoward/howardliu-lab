@@ -18,12 +18,12 @@ email: ""
 # - Authoritarianism
 
 # Organizations/Affiliations
-# organizations:
+organizations:
 # - name: National Cheng Kung University
 #   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Senior researcher <br/> [Kangwon Institute for Unification Studies, Republic of Korea](https://kius.kangwon.ac.kr/)
+role: Senior researcher <br/> [Kangwon Institute for Unification Studies, Republic of Korea](https://kius.kangwon.ac.kr/) <br/> [Personal website](https://sanghoon-park.com/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
