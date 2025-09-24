@@ -15,7 +15,9 @@ email: "ZIHUAN@email.sc.edu"
 
 # Interest shown on the main page
 interests:
-- Authoritarian politics
+- State-Society Relations
+- Central-Local Relations in Authoritarian States
+- Comparative Politics of East Asia
 
 
 
@@ -67,3 +69,4 @@ user_groups:
 
 ---
 
+Zihuan Feng is a Ph.D. student at the Department of Political Science at the University of South Carolina. She is majoring in Comparative Politics and International Relations. Her research examines power dynamics within communist states, specifically exploring how central and local authorities interact to influence policy outcomes. Her master's thesis used a large dataset of Chinese-North Korean trade flows to empirically analyze the varied effects of UN sanctions across different regions of China. She has also contributed to a major research project on Cold War international relations at East China Normal University. Prior to pursuing her Ph.D., Zihuan earned a Master of Arts (MA) in International Relations from Seoul National University and a Bachelor of Arts (BA) degree from Sun Yat-sen University. Her professional experience includes several years as an assistant at the School of Social Science, Tsinghua University.
