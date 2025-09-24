@@ -1,34 +1,31 @@
 ---
 # Display name
-name: Nadiya Kostyuk
+name: Zihuan Feng
 # Username (this should match the folder name)
 authors:
-- Nadiya Kostyuk
+- Zihuan Feng
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-education:
-  courses:
-  - course: PhD in Political Science
-    institution: University of Michigan
-    year: 2020
+bio: My research interests.
+
 
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nkostyuk3@gatech.edu"
+email: "ZIHUAN@email.sc.edu"
 
 # Interest shown on the main page
-# interests:
-# - Transitional Justice
-# - Authoritarianism
+interests:
+- Authoritarian politics
+
+
 
 # Organizations/Affiliations
 organizations:
-# - name: National Cheng Kung University
-#   url: "https://www.ncku.edu.tw/"
+# - name: University of South Carolina
+#   url: "https://sc.edu/"
   
 # Role/position
-role: Assistant Professor <br/> Institute for Strategy and Technology (CMIST) <br/> [Personal website](https://nadiyakostyuk.spp.gatech.edu/)
+role: Graduate student <br/> Department of Political Science  <br/> University of South Carolina
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,13 +55,15 @@ role: Assistant Professor <br/> Institute for Strategy and Technology (CMIST) <b
   
 # Is this the primary user of the site?
 superuser: false
-title: Nadiya Kostyuk
+title: Zihuan Feng
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+# - Lab Co-Director
+- Graduate students
 # - Principal Investigators
-- Current Co-Investigators
-
+# - Researchers
 
 ---
+

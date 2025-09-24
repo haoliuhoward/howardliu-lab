@@ -23,7 +23,7 @@ organizations:
 #   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Senior researcher <br/> [Kangwon Institute for Unification Studies, Republic of Korea](https://kius.kangwon.ac.kr/) <br/> [Personal website](https://sanghoon-park.com/)
+role: Senior researcher <br/> Kangwon Institute for Unification Studies, Republic of Korea <br/> [Personal website](https://sanghoon-park.com/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

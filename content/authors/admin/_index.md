@@ -23,12 +23,12 @@ name: Liu Research Lab
 # email: ""
 
 # Interest shown on the main page
-interests:
-- State repression
-- Political violence
-- Authoritarian politics
-- Armed conflicts
-- Network analysis
+# interests:
+# - State repression
+# - Political violence
+# - Authoritarian politics
+# - Armed conflicts
+# - Network analysis
 
 # Organizations/Affiliations
 organizations:
@@ -77,8 +77,8 @@ user_groups:
 
 ---
 
-Welcome! This lab's current research focuses on state violence and human rights violations. Our team members study repressive regimes and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. The collaborative environment in the lab offers students opportunities for research and mentorship.
+Welcome! This lab's current research focuses on state violence and human rights abuses. Our team members study repressive regimes and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. The collaborative environment in the lab offers students opportunities for research and mentorship.
 
-The lab has been funded by external sources such as the *National Science Foundation* and *Chiang Ching-kuo Foundation for International Scholarly Exchange*, as well as internal sources such as *McCausland College of Arts & Sciences at University of South Carolina*.
+The lab has been funded by external sources such as the [National Science Foundation](https://www.nsf.gov/) and [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), as well as internal sources such as [McCausland College of Arts & Sciences](https://sc.edu/study/colleges_schools/artsandsciences/) at University of South Carolina.
 
 

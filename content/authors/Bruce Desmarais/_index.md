@@ -28,7 +28,7 @@ organizations:
 #   url: "https://www.ncku.edu.tw/"
   
 # Role/position
-role: Professor <br/> Department of Political Science <br/> [Pennsylvania State University](https://www.psu.edu/ 'Pennsylvania State University') <br/> [Personal website](https://brucedesmarais.com/)
+role: Professor <br/> Department of Political Science <br/> Pennsylvania State University <br/> [Personal website](https://brucedesmarais.com/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

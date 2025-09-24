@@ -37,7 +37,7 @@ interests:
   
   
 # Role/position
-role: Assistant Professor <br/> Department of Political Science <br/> [University of South Carolina](https://sc.edu/ 'University of South Carolina')
+role: Assistant Professor <br/> Department of Political Science <br/> University of South Carolina <br/> [Personal website](https://howardhliu.com/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
