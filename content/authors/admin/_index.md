@@ -55,9 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/haoliuhoward
-- icon: calendar-alt
-  icon_pack: far
-  link: https://calendly.com/howard-hl-liu/office-hour-meeting-15-minutes
+# - icon: calendar-alt
+#   icon_pack: far
+#   link: https://calendly.com/howard-hl-liu/office-hour-meeting-15-minutes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
