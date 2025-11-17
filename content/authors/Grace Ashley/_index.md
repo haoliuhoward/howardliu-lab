@@ -26,7 +26,7 @@ organizations:
 #   url: "https://sc.edu/"
   
 # Role/position
-role: Undergraduate student <br/> McCausland College of Arts and Sciences <br/> University of South Carolina
+role: Undergraduate student <br/> McCausland College of Arts and Sciences <br/> University of South Carolina  <br/> [LinkedIn](https://www.linkedin.com/in/graceashley/)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
