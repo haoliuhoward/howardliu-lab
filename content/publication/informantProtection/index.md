@@ -4,7 +4,7 @@ authors:
 - admin
 - Ching-Hsuan Su
 - Yi-Ting Wang
-date: "2025-10-17T00:00:00Z"
+date: "2026-02-03T00:00:00Z"
 doi: ""
 
 
@@ -21,16 +21,16 @@ publication_short: "JPR"
 abstract:
 
 # Summary. An optional shortened abstractm.
-summary: (2025) Forthcoming in *Journal of Peace Research*.
+summary: (2026) Published in *Journal of Peace Research*.
 
 
 
 # links:
 # - name: "https://academic.oup.com/jogss/advance-article-abstract/doi/10.1093/jogss/ogaa042/5920461"
 #   url: ""
-url_pdf: ''
-url_preprint: 'files/InformantNetworks.pdf'
-url_code: ''
+url_pdf: 'https://academic.oup.com/jpr/advance-article/doi/10.1093/jopres/xjaf015/8456516?login=false'
+url_preprint: ''
+url_code: 'https://www.prio.org/journals/jpr/replicationdata'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,7 +64,7 @@ Authoritarian regimes rely heavily on informant networks to infiltrate and surve
 
 「應用時，請報密」：威權政府下的秘密監控、異議份子網絡、與線民保護計畫
 
-威權政權往往高度依賴線民網絡來滲透並監控異議份子。雖然線民在國家鎮壓中的角色早已被廣泛研究，但既有文獻往往忽略了一個重要的問題：祕密警察如何在不曝光線民身分的情況下運用他們蒐集的情報。本文探討祕密警察在何種情況下會致力於保護線民免於曝光。我們認為，情報機構在行動時必須在兩種風險間權衡：一是線民可能被暴露的風險，二是保護線民所需的成本。在權衡曝光風險與保護成本的情況下，祕密警察會優先選擇保護那些深度滲入異議網絡、能提供稀有且高價值情報的線民。本文透過分析臺灣1970年代解密的監控檔案來檢證此觀點。我們發現，當線民與人脈廣泛的異議人士關係密切、與潛藏在地下的幕後行為者有接觸，或能提供關於內部衝突的敏感資訊時，他們最有可能受到保護。這意味深度滲透的線民能提供高價值情報供秘密警察使用，但同時又面臨更高的曝光風險，因此更值得被保護。這份研究結果有助於我们理解秘密監控與鎮壓的運作，並揭示祕密警察如何在運用人力情報打擊異議時，同時權衡線民被曝光的風險。
+威權政權往往高度依賴線民網絡來滲透並監控異議份子。雖然線民在國家鎮壓中的角色早已被廣泛研究，但既有文獻往往忽略了一個重要的問題：祕密警察如何在不曝光線民身分的情況下運用他們蒐集的情報。本文探討祕密警察在何種情況下會致力於保護線民免於曝光。我們認為，情報機構在行動時必須在兩種風險間權衡：一是線民可能被暴露的風險，二是保護線民所需的成本。在權衡曝光風險與保護成本的情況下，祕密警察會優先選擇保護那些深度滲透異議網絡、能提供稀有且高價值情報的線民。本文透過分析臺灣1970年代解密的監控檔案來檢證此觀點。我們發現，當線民與人脈廣泛的異議人士關係密切、與潛藏在地下的幕後行為者有接觸，或能提供關於內部衝突的敏感資訊時，他們最有可能受到保護。這意味深度滲透的線民能提供高價值情報供秘密警察使用，但同時又面臨更高的曝光風險，因此更值得被保護。這份研究結果有助於我们理解秘密監控與鎮壓的運作，並揭示祕密警察如何在運用人力情報打擊異議時，同時權衡線民被曝光的風險。
 
 Citation: </br>
 [*Liu, Howard, Ching-Hsuan Su, and Yi-Ting Wang. "Keeping It Secret: Surveillance, Informant Networks, and the Protection of Informants in Authoritarian Regimes." Journal of Peace Research, Forthcoming*]()
