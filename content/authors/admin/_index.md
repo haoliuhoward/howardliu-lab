@@ -77,7 +77,7 @@ user_groups:
 
 ---
 
-Welcome! This lab's current research focuses on state violence and human rights abuses. Our team members study repressive regimes and examine the ways in which states establish and uphold political control using different coercive institutions and tactics. We employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. The collaborative environment in the lab offers students opportunities for research and mentorship.
+Welcome! This lab's current research focuses on the causes and consequences of state violence and human rights abuses. Our team members employ a range of methods in our research, including spatial and network analysis, causal inference, and experimental studies. The collaborative environment in the lab offers students opportunities for research and mentorship.
 
 Research in this lab has been funded by external sources such as the [National Science Foundation](https://www.nsf.gov/), [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), and [National Science and Technology Council (Taiwan)](https://www.nstc.gov.tw/?l=en), as well as internal sources such as [McCausland College of Arts & Sciences](https://sc.edu/study/colleges_schools/artsandsciences/) at University of South Carolina.
 
