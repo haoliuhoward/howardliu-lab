@@ -26,7 +26,8 @@ organizations:
   url: "https://sc.edu/"
   
 # Role/position
-role: Graduate student <br/> Department of Political Science  <br/> University of South Carolina
+role: Graduate student <br/> Department of Political Science  <br/> University of South Carolina <br/> [Personal website](https://dpeldon24.github.io/)
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

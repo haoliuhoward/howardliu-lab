@@ -65,6 +65,7 @@ user_groups:
 # - Graduate students
 # - Principal Investigators
 # - Researchers
-- Undergraduate students
+# - Undergraduate students
+- Alumni
 
 ---

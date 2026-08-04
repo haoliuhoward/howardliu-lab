@@ -1,7 +1,7 @@
 ---
 title: "Keeping It Secret: Surveillance, Informant Networks, and the Protection of Informants in Authoritarian Regimes"
 authors:
-- admin
+- Howard Liu
 - Ching-Hsuan Su
 - Yi-Ting Wang
 date: "2026-02-03T00:00:00Z"

@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://howardhliu.com/publication-type/2/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <loc>https://howardhliu.com/publication-type/3/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/authors/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/project/tr-china/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/author/deki-peldon/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/author/howard-liu/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/project/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/publication_types/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://howardhliu.com/publication-type/2/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/author/ching-hsuan-su/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/publication/informantprotection/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://howardhliu.com/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://howardhliu.com/author/liu-research-lab/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://howardhliu.com/publication_types/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/publication/</loc>
@@ -32,12 +44,6 @@
     <loc>https://howardhliu.com/publication-type/6/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://howardhliu.com/author/deki-peldon/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://howardhliu.com/author/howard-liu/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://howardhliu.com/publication/surveillance-studies/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -45,9 +51,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/project/north-korea-hr-proj/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://howardhliu.com/project/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/author/sanghoon-park/</loc>
@@ -59,11 +62,11 @@
     <loc>https://howardhliu.com/talk/china/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://howardhliu.com/talk/</loc>
+    <loc>https://howardhliu.com/author/liu-research-lab/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://howardhliu.com/publication-type/3/</loc>
-    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <loc>https://howardhliu.com/talk/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://howardhliu.com/author/cassy-dorff/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
@@ -172,11 +175,11 @@
   </url><url>
     <loc>https://howardhliu.com/author/deki-peldon/</loc>
   </url><url>
-    <loc>https://howardhliu.com/author/deki-peldon/</loc>
-  </url><url>
     <loc>https://howardhliu.com/author/grace-ashley/</loc>
   </url><url>
     <loc>https://howardhliu.com/author/howard-liu/</loc>
+  </url><url>
+    <loc>https://howardhliu.com/author/insu-hwang/</loc>
   </url><url>
     <loc>https://howardhliu.com/author/jieun-byeon/</loc>
   </url><url>
