@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chuyu Liu | Liu Research Lab</title>
-    <link>https://howardhliu.com/author/chuyu-liu/</link>
-      <atom:link href="https://howardhliu.com/author/chuyu-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chuyu Liu</description>
+    <title>Chenyu Lee | Liu Research Lab</title>
+    <link>https://howardhliu.com/author/chenyu-lee/</link>
+      <atom:link href="https://howardhliu.com/author/chenyu-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenyu Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Howard Liu.</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_3.png</url>
-      <title>Chuyu Liu</title>
-      <link>https://howardhliu.com/author/chuyu-liu/</link>
+      <title>Chenyu Lee</title>
+      <link>https://howardhliu.com/author/chenyu-lee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://howardhliu.com/project/chinarepression-proj/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://howardhliu.com/project/chinarepression-proj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Who Leaves and Who Stays? Organizational Hierarchy and Rebel Fragmentation</title>
-      <link>https://howardhliu.com/talk/hierarchy/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://howardhliu.com/talk/hierarchy/</guid>
       <description></description>
     </item>
     
