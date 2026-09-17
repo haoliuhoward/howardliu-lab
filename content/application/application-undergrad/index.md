@@ -36,7 +36,6 @@ We welcome applicants from any major and any year. No prior research or coding e
 
 - **Attention to detail and follow-through.** Much of our work involves carefully reading research articles, programming, and designing experiments, where small mistakes matter.
 
-
 - **Comfort with (or eagerness to learn) data analytics in R.** Coursework in statistics, research methods, or data science is a plus, but we will train members from the ground up.
 
 - **Commitment to the team.** Show up to Tuesday meetings, do the work, meet deadlines, and communicate early when something is getting in the way.
@@ -45,7 +44,8 @@ Before applying, please read the [Applicant Manual](https://www.dropbox.com/scl/
 
 # Application 
 
-The Spring 2027 application to the lab will be posted [here]() during the Fall 2026 semester. The application, interview, and decisionmaking timeline will be posted here when it is available.
+The Spring 2027 application to the lab will be posted here during the Fall 2026 semester. The application, interview, and decisionmaking timeline will be posted here when it is available.
+
 ## Ready to apply?
 
 Applications are submitted through our online portal. Have a PDF of your résumé/CV ready; an unofficial transcript and a writing sample are optional. The form takes about 30 minutes, and your answers are saved in your browser as you type.
