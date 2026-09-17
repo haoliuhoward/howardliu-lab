@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahryar Minhas | Liu Research Lab</title>
+    <link>https://howardhliu.com/author/shahryar-minhas/</link>
+      <atom:link href="https://howardhliu.com/author/shahryar-minhas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shahryar Minhas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Howard Liu.</copyright><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_3.png</url>
+      <title>Shahryar Minhas</title>
+      <link>https://howardhliu.com/author/shahryar-minhas/</link>
+    </image>
+    
+    <item>
+      <title>Taking Dyads Seriously</title>
+      <link>https://howardhliu.com/talk/dyads/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/dyads/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

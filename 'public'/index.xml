@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liu Research Lab</title>
+    <link>https://howardhliu.com/</link>
+      <atom:link href="https://howardhliu.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liu Research Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Howard Liu.</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://howardhliu.com/images/icon_hub8f4bda36930b2d334c7b95ed0c23925_8964_512x512_fill_lanczos_center_3.png</url>
+      <title>Liu Research Lab</title>
+      <link>https://howardhliu.com/</link>
+    </image>
+    
+    <item>
+      <title>Application received</title>
+      <link>https://howardhliu.com/apply/thanks/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/apply/thanks/</guid>
+      <description>&lt;div class=&#34;apply-thanks&#34;&gt;
+&lt;p class=&#34;apply-thanks-icon&#34;&gt;&lt;i class=&#34;fas fa-check-circle&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Thank you — your application to the Liu Research Lab has been submitted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What happens next&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You will hear from Prof. Liu by email after the deadline, typically within two weeks.&lt;/li&gt;
+&lt;li&gt;Promising applicants are invited to a short conversation (15–20 minutes) to talk about your interests and possible projects.&lt;/li&gt;
+&lt;li&gt;Admitted members enroll in two credits of POLI 498 and join the Tuesday 12:00–1:00 p.m. lab meeting the following semester.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you have questions in the meantime, or need to correct something in your application, email
+
+&lt;a href=&#34;mailto:howard.hl.liu@gmail.com&#34;&gt;howard.hl.liu@gmail.com&lt;/a&gt; with &amp;ldquo;Lab application&amp;rdquo; in the subject line.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://howardhliu.com/&#34;&gt;← Back to the lab homepage&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apply to the Liu Research Lab</title>
+      <link>https://howardhliu.com/apply/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/apply/</guid>
+      <description>&lt;div class=&#34;apply-intro&#34;&gt;
+&lt;p&gt;Thank you for your interest in joining the lab. Before you begin, please read the
+
+&lt;a href=&#34;https://howardhliu.com/application/application-undergrad/&#34;&gt;key information for prospective members&lt;/a&gt; and the
+
+&lt;a href=&#34;https://www.dropbox.com/scl/fi/lvlgxtnoffurd2fpbl3tg/Applicant-manual.pdf?rlkey=b777jxfm4ciadocgkv6xnogge&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applicant Manual&lt;/a&gt;,
+which explain what we do, what we expect, and how applications are evaluated.&lt;/p&gt;
+&lt;p&gt;The form takes about 30–45 minutes. Your text answers are saved in your browser as you type, so you
+can leave and come back on the same device. You will need a &lt;strong&gt;PDF of your résumé/CV&lt;/strong&gt;; an unofficial
+transcript and a writing sample are optional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deadline:&lt;/strong&gt; applications for Spring 2027 are due &lt;strong&gt;November 15, 2026&lt;/strong&gt;. We review applications on a
+rolling basis after the deadline and will respond by email within two weeks.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;form
+  name=&#34;liu-lab-application&#34;
+  method=&#34;POST&#34;
+  action=&#34;https://howardhliu.com/apply/thanks/&#34;
+  enctype=&#34;multipart/form-data&#34;
+  data-netlify=&#34;true&#34;
+  netlify-honeypot=&#34;bot-field&#34;
+  class=&#34;apply-form&#34;
+  id=&#34;apply-form&#34;
+  novalidate
+&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;liu-lab-application&#34;&gt;
+  &lt;p class=&#34;d-none&#34;&gt;
+    &lt;label&gt;Don&#39;t fill this out if you&#39;re human: &lt;input name=&#34;bot-field&#34;&gt;&lt;/label&gt;
+  &lt;/p&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;legend&gt;&lt;span class=&#34;apply-step&#34;&gt;1&lt;/span&gt; About you&lt;/legend&gt;
+
+    &lt;div class=&#34;form-row&#34;&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;full_name&#34;&gt;Full name &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;full_name&#34; name=&#34;full_name&#34; autocomplete=&#34;name&#34; required&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;preferred_name&#34;&gt;Preferred name / pronouns &lt;small class=&#34;text-muted&#34;&gt;(optional)&lt;/small&gt;&lt;/label&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;preferred_name&#34; name=&#34;preferred_name&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-row&#34;&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;email&#34;&gt;USC email &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;input type=&#34;email&#34; class=&#34;form-control&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;you@email.sc.edu&#34; autocomplete=&#34;email&#34; required&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;phone&#34;&gt;Phone &lt;small class=&#34;text-muted&#34;&gt;(optional)&lt;/small&gt;&lt;/label&gt;
+        &lt;input type=&#34;tel&#34; class=&#34;form-control&#34; id=&#34;phone&#34; name=&#34;phone&#34; autocomplete=&#34;tel&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-row&#34;&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;major&#34;&gt;Major(s) &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;major&#34; name=&#34;major&#34; placeholder=&#34;e.g. Political Science&#34; required&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;form-group col-md-6&#34;&gt;
+        &lt;label for=&#34;minor&#34;&gt;Minor(s) / concentration &lt;small class=&#34;text-muted&#34;&gt;(optional)&lt;/small&gt;&lt;/label&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;minor&#34; name=&#34;minor&#34;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-row&#34;&gt;
+      &lt;div class=&#34;form-group col-md-4&#34;&gt;
+        &lt;label for=&#34;class_standing&#34;&gt;Class standing &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;select class=&#34;form-control&#34; id=&#34;class_standing&#34; name=&#34;class_standing&#34; required&gt;
+          &lt;option value=&#34;&#34; selected disabled&gt;Select…&lt;/option&gt;
+          &lt;option&gt;First-year&lt;/option&gt;
+          &lt;option&gt;Sophomore&lt;/option&gt;
+          &lt;option&gt;Junior&lt;/option&gt;
+          &lt;option&gt;Senior&lt;/option&gt;
+        &lt;/select&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;form-group col-md-4&#34;&gt;
+        &lt;label for=&#34;graduation&#34;&gt;Expected graduation &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;graduation&#34; name=&#34;graduation&#34; placeholder=&#34;e.g. May 2028&#34; required&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;form-group col-md-4&#34;&gt;
+        &lt;label for=&#34;gpa&#34;&gt;Current GPA &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+        &lt;input type=&#34;number&#34; class=&#34;form-control&#34; id=&#34;gpa&#34; name=&#34;gpa&#34; min=&#34;0&#34; max=&#34;4&#34; step=&#34;0.01&#34; placeholder=&#34;e.g. 3.65&#34; required&gt;
+        &lt;small class=&#34;form-text text-muted&#34;&gt;No minimum, but see the &lt;a href=&#34;https://www.dropbox.com/scl/fi/lvlgxtnoffurd2fpbl3tg/Applicant-manual.pdf?rlkey=b777jxfm4ciadocgkv6xnogge&amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applicant Manual&lt;/a&gt; on GPA.&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;semester&#34;&gt;Semester you are applying to join &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+      &lt;select class=&#34;form-control&#34; id=&#34;semester&#34; name=&#34;semester&#34; required&gt;
+        &lt;option value=&#34;&#34; selected disabled&gt;Select…&lt;/option&gt;
+        &lt;option&gt;Spring 2027&lt;/option&gt;
+        &lt;option&gt;Fall 2027&lt;/option&gt;
+        &lt;option&gt;Spring 2028&lt;/option&gt;
+      &lt;/select&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;referral&#34;&gt;How did you hear about the lab? &lt;small class=&#34;text-muted&#34;&gt;(optional)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;referral&#34; name=&#34;referral&#34; placeholder=&#34;e.g. POLI class, a current member, Office of Undergraduate Research&#34;&gt;
+    &lt;/div&gt;
+  &lt;/fieldset&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;legend&gt;&lt;span class=&#34;apply-step&#34;&gt;2&lt;/span&gt; Background &amp;amp; skills&lt;/legend&gt;
+    &lt;p class=&#34;apply-help&#34;&gt;None of these are prerequisites. They help us match you to a project and a mentor.&lt;/p&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;coursework&#34;&gt;Relevant coursework &lt;small class=&#34;text-muted&#34;&gt;(statistics, research methods, data science, area studies, etc.)&lt;/small&gt;&lt;/label&gt;
+      &lt;textarea class=&#34;form-control&#34; id=&#34;coursework&#34; name=&#34;coursework&#34; rows=&#34;3&#34; placeholder=&#34;e.g. POLI 301, STAT 201, CSCE 145 (in progress)&#34;&gt;&lt;/textarea&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label class=&#34;d-block&#34;&gt;Programming experience&lt;/label&gt;
+      &lt;div class=&#34;form-row&#34;&gt;
+        &lt;div class=&#34;col-md-6 form-group mb-2&#34;&gt;
+          &lt;label for=&#34;skill_r&#34; class=&#34;small mb-1&#34;&gt;R&lt;/label&gt;
+          &lt;select class=&#34;form-control form-control-sm&#34; id=&#34;skill_r&#34; name=&#34;skill_r&#34;&gt;
+            &lt;option&gt;None&lt;/option&gt;
+            &lt;option&gt;Beginner (a class or tutorial)&lt;/option&gt;
+            &lt;option&gt;Intermediate (own analyses, tidyverse)&lt;/option&gt;
+            &lt;option&gt;Advanced (packages, pipelines, modeling)&lt;/option&gt;
+          &lt;/select&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-6 form-group mb-2&#34;&gt;
+          &lt;label for=&#34;skill_python&#34; class=&#34;small mb-1&#34;&gt;Python&lt;/label&gt;
+          &lt;select class=&#34;form-control form-control-sm&#34; id=&#34;skill_python&#34; name=&#34;skill_python&#34;&gt;
+            &lt;option&gt;None&lt;/option&gt;
+            &lt;option&gt;Beginner (a class or tutorial)&lt;/option&gt;
+            &lt;option&gt;Intermediate (pandas, scripting)&lt;/option&gt;
+            &lt;option&gt;Advanced (ML / LLM / scraping projects)&lt;/option&gt;
+          &lt;/select&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;skill_other&#34; name=&#34;skill_other&#34; placeholder=&#34;Other tools: Stata, SQL, GIS, Git, Excel, AI tools (Claude/Codex)…&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;languages&#34;&gt;Language skills &lt;small class=&#34;text-muted&#34;&gt;(especially Mandarin Chinese; note reading/speaking level)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;languages&#34; name=&#34;languages&#34; placeholder=&#34;e.g. Mandarin (heritage speaker, reads simplified), Spanish (intermediate)&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;region_experience&#34;&gt;Experience living in, studying, or following a relevant region &lt;small class=&#34;text-muted&#34;&gt;(optional)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;region_experience&#34; name=&#34;region_experience&#34; placeholder=&#34;e.g. study abroad in Taipei; family from Hong Kong; coursework on Latin America&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label class=&#34;d-block&#34;&gt;Which of these sounds most like you? &lt;small class=&#34;text-muted&#34;&gt;(pick any; see the “Skill Sets” section of the manual)&lt;/small&gt;&lt;/label&gt;
+      &lt;div class=&#34;custom-control custom-checkbox&#34;&gt;
+        &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;type_analyst&#34; name=&#34;profile[]&#34; value=&#34;Analyst&#34;&gt;
+        &lt;label class=&#34;custom-control-label&#34; for=&#34;type_analyst&#34;&gt;&lt;strong&gt;The Analyst&lt;/strong&gt; — I want to master research design and data analysis to run my own studies.&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;custom-control custom-checkbox&#34;&gt;
+        &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;type_fixer&#34; name=&#34;profile[]&#34; value=&#34;Fixer&#34;&gt;
+        &lt;label class=&#34;custom-control-label&#34; for=&#34;type_fixer&#34;&gt;&lt;strong&gt;The Fixer&lt;/strong&gt; — I&#39;m organized and reliable; I like keeping projects and people on track.&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;custom-control custom-checkbox&#34;&gt;
+        &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;type_comp&#34; name=&#34;profile[]&#34; value=&#34;Computational Researcher&#34;&gt;
+        &lt;label class=&#34;custom-control-label&#34; for=&#34;type_comp&#34;&gt;&lt;strong&gt;The Computational Researcher&lt;/strong&gt; — I have (or want) data-science and programming skills to build datasets and pipelines.&lt;/label&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/fieldset&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;legend&gt;&lt;span class=&#34;apply-step&#34;&gt;3&lt;/span&gt; Commitment&lt;/legend&gt;
+    &lt;p class=&#34;apply-help&#34;&gt;Please confirm you have read the &lt;a href=&#34;https://howardhliu.com/application/application-undergrad/&#34;&gt;time commitment&lt;/a&gt; and can meet it.&lt;/p&gt;
+
+    &lt;div class=&#34;custom-control custom-checkbox mb-2&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;c_meeting&#34; name=&#34;confirm_meeting&#34; value=&#34;yes&#34; required&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;c_meeting&#34;&gt;I can attend the weekly lab meeting on &lt;strong&gt;Tuesdays, 12:00–1:00 p.m.&lt;/strong&gt; &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;custom-control custom-checkbox mb-2&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;c_hours&#34; name=&#34;confirm_hours&#34; value=&#34;yes&#34; required&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;c_hours&#34;&gt;I can commit &lt;strong&gt;5–10 hours per week&lt;/strong&gt; to lab work in addition to meetings. &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;custom-control custom-checkbox mb-2&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;c_credits&#34; name=&#34;confirm_poli498&#34; value=&#34;yes&#34; required&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;c_credits&#34;&gt;I will enroll in &lt;strong&gt;two credits of POLI 498 (Research Experience)&lt;/strong&gt; if admitted. &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;custom-control custom-checkbox mb-2&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;c_multiyear&#34; name=&#34;confirm_multiyear&#34; value=&#34;yes&#34;&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;c_multiyear&#34;&gt;I am interested in staying in the lab for more than one semester.&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;custom-control custom-checkbox mb-3&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;c_funding&#34; name=&#34;interest_funding&#34; value=&#34;yes&#34;&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;c_funding&#34;&gt;I would like help applying for &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/undergraduate_research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undergraduate Research Funds&lt;/a&gt; (e.g. Magellan).&lt;/label&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;other_commitments&#34;&gt;Other major commitments this semester &lt;small class=&#34;text-muted&#34;&gt;(jobs, athletics, leadership roles — optional)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;other_commitments&#34; name=&#34;other_commitments&#34;&gt;
+    &lt;/div&gt;
+  &lt;/fieldset&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;legend&gt;&lt;span class=&#34;apply-step&#34;&gt;4&lt;/span&gt; Short-answer questions&lt;/legend&gt;
+    &lt;p class=&#34;apply-help&#34;&gt;
+      Aim for roughly &lt;strong&gt;150–300 words&lt;/strong&gt; per answer. Your answers are evaluated for content
+      &lt;em&gt;and&lt;/em&gt; as a signal of how clearly you think and write, so proofread before you submit.
+      Your draft is saved in this browser automatically.
+    &lt;/p&gt;
+
+    &lt;div class=&#34;form-group apply-essay&#34;&gt;
+      &lt;label for=&#34;q1&#34;&gt;&lt;span class=&#34;q-num&#34;&gt;Q1.&lt;/span&gt; Why are you interested in becoming a part of the Liu Lab? What do you hope to gain from the experience? &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+      &lt;textarea class=&#34;form-control&#34; id=&#34;q1&#34; name=&#34;q1&#34; rows=&#34;8&#34; required data-words&gt;&lt;/textarea&gt;
+      &lt;div class=&#34;word-count text-muted small&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group apply-essay&#34;&gt;
+      &lt;label for=&#34;q2&#34;&gt;&lt;span class=&#34;q-num&#34;&gt;Q2.&lt;/span&gt; After looking at the &lt;a href=&#34;https://howardhliu.com/#projects&#34;&gt;lab website&lt;/a&gt;, which research project is most interesting to you and why? &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+      &lt;textarea class=&#34;form-control&#34; id=&#34;q2&#34; name=&#34;q2&#34; rows=&#34;8&#34; required data-words&gt;&lt;/textarea&gt;
+      &lt;div class=&#34;word-count text-muted small&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group apply-essay&#34;&gt;
+      &lt;label for=&#34;q3&#34;&gt;&lt;span class=&#34;q-num&#34;&gt;Q3.&lt;/span&gt; Tell me a bit about what makes you tick, as it relates to the study of authoritarian politics, repression, or political conflict. &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+      &lt;small class=&#34;form-text text-muted mb-2&#34;&gt;This can be an observation or question from following politics at home or abroad, a reading or unit in a class you found especially interesting, or the motivation for what you want to do after graduation. A fully formed research question is not expected — we want to know what interests you.&lt;/small&gt;
+      &lt;textarea class=&#34;form-control&#34; id=&#34;q3&#34; name=&#34;q3&#34; rows=&#34;8&#34; required data-words&gt;&lt;/textarea&gt;
+      &lt;div class=&#34;word-count text-muted small&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;form-group apply-essay&#34;&gt;
+      &lt;label for=&#34;q4&#34;&gt;&lt;span class=&#34;q-num&#34;&gt;Q4.&lt;/span&gt; What skills or experiences do you have that would make you a valuable part of the lab? &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+      &lt;small class=&#34;form-text text-muted mb-2&#34;&gt;Coursework in statistics or research methods, programming (R, Python, other), language skills (especially Mandarin Chinese), experience living in or studying a relevant region, and experience organizing people or projects.&lt;/small&gt;
+      &lt;textarea class=&#34;form-control&#34; id=&#34;q4&#34; name=&#34;q4&#34; rows=&#34;8&#34; required data-words&gt;&lt;/textarea&gt;
+      &lt;div class=&#34;word-count text-muted small&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/fieldset&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;legend&gt;&lt;span class=&#34;apply-step&#34;&gt;5&lt;/span&gt; Documents&lt;/legend&gt;
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;cv&#34;&gt;Résumé / CV &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt; &lt;small class=&#34;text-muted&#34;&gt;(PDF, max 5 MB)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;file&#34; class=&#34;form-control-file&#34; id=&#34;cv&#34; name=&#34;cv&#34; accept=&#34;.pdf&#34; required&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;transcript&#34;&gt;Unofficial transcript &lt;small class=&#34;text-muted&#34;&gt;(PDF, optional — Self Service Carolina export is fine)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;file&#34; class=&#34;form-control-file&#34; id=&#34;transcript&#34; name=&#34;transcript&#34; accept=&#34;.pdf&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;writing_sample&#34;&gt;Writing sample &lt;small class=&#34;text-muted&#34;&gt;(PDF, optional — a course paper you are proud of)&lt;/small&gt;&lt;/label&gt;
+      &lt;input type=&#34;file&#34; class=&#34;form-control-file&#34; id=&#34;writing_sample&#34; name=&#34;writing_sample&#34; accept=&#34;.pdf&#34;&gt;
+    &lt;/div&gt;
+  &lt;/fieldset&gt;
+
+  
+  &lt;fieldset class=&#34;apply-section&#34;&gt;
+    &lt;div class=&#34;custom-control custom-checkbox mb-3&#34;&gt;
+      &lt;input type=&#34;checkbox&#34; class=&#34;custom-control-input&#34; id=&#34;attest&#34; name=&#34;attest&#34; value=&#34;yes&#34; required&gt;
+      &lt;label class=&#34;custom-control-label&#34; for=&#34;attest&#34;&gt;I confirm that the information above is accurate and that the short answers are my own writing. &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;apply-error alert alert-danger d-none&#34; role=&#34;alert&#34;&gt;
+      Please complete all required fields (marked &lt;span class=&#34;req&#34;&gt;*&lt;/span&gt;) before submitting.
+    &lt;/div&gt;
+    &lt;button type=&#34;submit&#34; class=&#34;btn btn-primary btn-lg apply-submit&#34;&gt;Submit application &lt;i class=&#34;fas fa-paper-plane ml-1&#34;&gt;&lt;/i&gt;&lt;/button&gt;
+    &lt;button type=&#34;button&#34; class=&#34;btn btn-link apply-clear&#34;&gt;Clear saved draft&lt;/button&gt;
+  &lt;/fieldset&gt;
+&lt;/form&gt;
+
+&lt;script&gt;
+(function () {
+  var form = document.getElementById(&#39;apply-form&#39;);
+  if (!form) return;
+  var KEY = &#39;liu-lab-application-draft&#39;;
+
+   
+  function countWords(s) { s = s.trim(); return s ? s.split(/\s+/).length : 0; }
+  form.querySelectorAll(&#39;textarea[data-words]&#39;).forEach(function (ta) {
+    var out = ta.parentNode.querySelector(&#39;.word-count&#39;);
+    function update() { out.textContent = countWords(ta.value) + &#39; words&#39;; }
+    ta.addEventListener(&#39;input&#39;, update); update();
+  });
+
+   
+  var fields = form.querySelectorAll(&#39;input:not([type=file]):not([type=hidden]):not([name=bot-field]), select, textarea&#39;);
+  function save() {
+    var data = {};
+    fields.forEach(function (f) {
+      if (f.type === &#39;checkbox&#39;) data[f.id] = f.checked; else data[f.id] = f.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return; }
+    if (!raw) return;
+    var data = JSON.parse(raw);
+    fields.forEach(function (f) {
+      if (!(f.id in data)) return;
+      if (f.type === &#39;checkbox&#39;) f.checked = !!data[f.id]; else f.value = data[f.id];
+      f.dispatchEvent(new Event(&#39;input&#39;));
+    });
+  }
+  restore();
+  fields.forEach(function (f) { f.addEventListener(&#39;input&#39;, save); f.addEventListener(&#39;change&#39;, save); });
+
+  form.querySelector(&#39;.apply-clear&#39;).addEventListener(&#39;click&#39;, function () {
+    if (!confirm(&#39;Clear your saved draft and reset the form?&#39;)) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    form.reset();
+    form.querySelectorAll(&#39;textarea[data-words]&#39;).forEach(function (ta) { ta.dispatchEvent(new Event(&#39;input&#39;)); });
+  });
+
+   
+  form.addEventListener(&#39;submit&#39;, function (e) {
+    var err = form.querySelector(&#39;.apply-error&#39;);
+    if (!form.checkValidity()) {
+      e.preventDefault();
+      form.classList.add(&#39;was-validated&#39;);
+      err.classList.remove(&#39;d-none&#39;);
+      var first = form.querySelector(&#39;:invalid&#39;);
+      if (first) first.scrollIntoView({ behavior: &#39;smooth&#39;, block: &#39;center&#39; });
+      return;
+    }
+    var cv = form.querySelector(&#39;#cv&#39;);
+    if (cv.files[0] &amp;&amp; cv.files[0].size &gt; 5 * 1024 * 1024) {
+      e.preventDefault();
+      err.textContent = &#39;Your CV is larger than 5 MB. Please compress it and try again.&#39;;
+      err.classList.remove(&#39;d-none&#39;);
+      return;
+    }
+    err.classList.add(&#39;d-none&#39;);
+    try { localStorage.removeItem(KEY); } catch (e2) {}
+    form.querySelector(&#39;.apply-submit&#39;).disabled = true;
+  });
+})();
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Apply to Join Us</title>
+      <link>https://howardhliu.com/application/application-undergrad/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/application/application-undergrad/</guid>
+      <description>&lt;h1 id=&#34;what-work-does-this-lab-do&#34;&gt;What work does this Lab do?&lt;/h1&gt;
+&lt;p&gt;The Liu Research Lab is a collaborative research group in the Department of Political Science at the University of South Carolina, directed by Prof. Howard Liu and driven by the curiosity of the students involved. We study the causes and consequences of state violence and human rights abuses: why governments repress, how repression travels across borders to target diasporas and dissidents abroad, how ordinary people respond to it through protest and resistance, and what happens in the aftermath.&lt;/p&gt;
+&lt;p&gt;Our research is empirical and computational. Depending on the project, lab members help build original datasets from news reports, archives, and government documents; code and map political events; run surveys and survey experiments; and analyze the results using spatial and network analysis, causal inference, and text-as-data methods in R. Students contribute to ongoing, grant-funded projects while at times developing their own research questions that connect to the lab&amp;rsquo;s agenda.&lt;/p&gt;
+&lt;h1 id=&#34;why-join-the-lab&#34;&gt;Why join the Lab?&lt;/h1&gt;
+&lt;p&gt;The goal of this Lab experience is to enable students to develop the analytical, methodological and writing skills necessary to 1) successfully execute a high-quality independent research project before they graduate and 2) plan for and attain post-graduation opportunities (job, graduate school, fellowship, etc.) that utilize those skills. Equally important are the opportunities to 1) work closely with a faculty member outside of the classroom environment and 2) interact with other students interested in data analysis and research.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-the-time-commitment&#34;&gt;What is the time commitment?&lt;/h1&gt;
+&lt;p&gt;New lab members can sign up for two credits of &lt;strong&gt;POLI 498 (Research Experience)&lt;/strong&gt; and have a high likelihood of receiving 
+&lt;a href=&#34;https://sc.edu/about/offices_and_divisions/undergraduate_research/funding_opportunities/our_funding/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undergraduate Research Funds&lt;/a&gt; if they apply in time. Members will meet every &lt;strong&gt;Tuesday from 12:00–1:00 p.m.&lt;/strong&gt; for the weekly lab meeting.&lt;/p&gt;
+&lt;p&gt;In addition to lab meetings, joining the lab is a &lt;strong&gt;5–10 hour/week commitment&lt;/strong&gt; working on collaborative or independent research projects. At the end of each semester, lab members put together a presentation highlighting what they have accomplished individually and with their teams.&lt;/p&gt;
+&lt;h1 id=&#34;what-makes-for-a-successful-applicant&#34;&gt;What makes for a successful applicant?&lt;/h1&gt;
+&lt;p&gt;We welcome applicants from any major and any year. No prior research or coding experience is required; what matters most is curiosity about the questions we study, reliability, and a willingness to learn. That said, the students who thrive in the lab tend to share a few traits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Genuine interest&lt;/strong&gt; in state repression, human rights, protest, or authoritarian politics, ideally with some idea of the questions you would like to pursue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attention to detail and follow-through.&lt;/strong&gt; Much of our work involves carefully reading research articles, programming, and designing experiments, where small mistakes matter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Comfort with (or eagerness to learn) data analytics in R.&lt;/strong&gt; Coursework in statistics, research methods, or data science is a plus, but we will train members from the ground up.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Commitment to the team.&lt;/strong&gt; Show up to Tuesday meetings, do the work, meet deadlines, and communicate early when something is getting in the way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before applying, please read the 
+&lt;a href=&#34;https://www.dropbox.com/scl/fi/lvlgxtnoffurd2fpbl3tg/Applicant-manual.pdf?rlkey=b777jxfm4ciadocgkv6xnogge&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applicant Manual&lt;/a&gt;, which describes the application process, what to include in your materials, and what to expect in your first semester. Questions can be sent to 
+&lt;a href=&#34;mailto:howard.liu@sc.edu&#34;&gt;howard.liu@sc.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;application&#34;&gt;Application&lt;/h1&gt;
+&lt;p&gt;The Spring 2027 application to the lab will be posted 
+&lt;a href=&#34;&#34;&gt;here&lt;/a&gt; during the Fall 2026 semester. The application, interview, and decisionmaking timeline will be posted here when it is available.&lt;/p&gt;
+&lt;h2 id=&#34;ready-to-apply&#34;&gt;Ready to apply?&lt;/h2&gt;
+&lt;p&gt;Applications are submitted through our online portal. Have a PDF of your résumé/CV ready; an unofficial transcript and a writing sample are optional. The form takes about 30–45 minutes, and your answers are saved in your browser as you type.&lt;/p&gt;
+&lt;p class=&#34;apply-portal-cta&#34;&gt;
+  &lt;a class=&#34;btn btn-primary btn-lg&#34; href=&#34;https://howardhliu.com/apply/&#34;&gt;Open the application portal &lt;i class=&#34;fas fa-arrow-right ml-1&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deadline for Spring 2027: November 15, 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coercion without Borders: Interstate Partnerships, Diaspora Collaboration, and the Modality of Transnational Repression</title>
+      <link>https://howardhliu.com/project/tr-china/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/project/tr-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keeping It Secret: Surveillance, Informant Networks, and the Protection of Informants in Authoritarian Regimes</title>
+      <link>https://howardhliu.com/publication/informantprotection/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/informantprotection/</guid>
+      <description>&lt;p&gt;Authoritarian regimes rely heavily on informant networks to infiltrate and surveil dissident organizations. While the role of informants in state repression is well-documented, existing research often overlooks how secret police use the intelligence gathered from informants without compromising their identities. In this article, we examine the conditions under which secret police agencies seek to protect informants from exposure. We argue that agencies face a tradeoff between the risks of exposing informants and the costs of implementing protection, often prioritizing protection for informants who are deeply embedded in dissident networks and provide rare, high-value intelligence. Using declassified surveillance reports from 1970s Taiwan, we find that protection is most likely when informants are close to well-connected dissidents, interact with behind-the-scenes activists, or provide sensitive information about internal conflicts. Deeply embedded informants offer high-value intelligence but face greater risks of exposure, making them especially worth protecting. These findings contribute to research on surveillance and repression by showing how secret police manage the risks of informant exposure while leveraging human intelligence to counter dissent.&lt;/p&gt;
+&lt;p&gt;「應用時，請報密」：威權政府下的秘密監控、異議份子網絡、與線民保護計畫&lt;/p&gt;
+&lt;p&gt;威權政權往往高度依賴線民網絡來滲透並監控異議份子。雖然線民在國家鎮壓中的角色早已被廣泛研究，但既有文獻往往忽略了一個重要的問題：祕密警察如何在不曝光線民身分的情況下運用他們蒐集的情報。本文探討祕密警察在何種情況下會致力於保護線民免於曝光。我們認為，情報機構在行動時必須在兩種風險間權衡：一是線民可能被暴露的風險，二是保護線民所需的成本。在權衡曝光風險與保護成本的情況下，祕密警察會優先選擇保護那些深度滲透異議網絡、能提供稀有且高價值情報的線民。本文透過分析臺灣1970年代解密的監控檔案來檢證此觀點。我們發現，當線民與人脈廣泛的異議人士關係密切、與潛藏在地下的幕後行為者有接觸，或能提供關於內部衝突的敏感資訊時，他們最有可能受到保護。這意味深度滲透的線民能提供高價值情報供秘密警察使用，但同時又面臨更高的曝光風險，因此更值得被保護。這份研究結果有助於我们理解秘密監控與鎮壓的運作，並揭示祕密警察如何在運用人力情報打擊異議時，同時權衡線民被曝光的風險。&lt;/p&gt;
+&lt;p&gt;Citation: &lt;/br&gt;
+
+&lt;a href=&#34;&#34;&gt;&lt;em&gt;Liu, Howard, Ching-Hsuan Su, and Yi-Ting Wang. &amp;ldquo;Keeping It Secret: Surveillance, Informant Networks, and the Protection of Informants in Authoritarian Regimes.&amp;rdquo; Journal of Peace Research, Forthcoming&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repression of Ethnic Minority: Evidence from Mao&#39;s China</title>
+      <link>https://howardhliu.com/project/chinarepression-proj/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/project/chinarepression-proj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surveillance Studies</title>
+      <link>https://howardhliu.com/publication/surveillance-studies/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/surveillance-studies/</guid>
+      <description>&lt;p&gt;Surveillance is a critical tool of political and social control, employed by both authoritarian and democratic regimes to monitor populations, suppress dissent, and maintain political stability. Despite its widespread use, surveillance remains an understudied and contested concept across disciplines, with political science, sociology, and multi-disciplinary surveillance research offering distinct perspectives on its nature, methods, and consequences. This chapter synthesizes existing research and introduces a new framework that categorizes surveillance methods based on two key dimensions: visibility (overt vs. covert) and interface (human vs. technological). By integrating insights from different disciplines, the chapter develops a layered model of surveillance targets and a typology of surveillance methods that highlight the strategic choices regimes make. It further examines the agency problems arising from delegated surveillance, the causes driving state and corporate surveillance, and the consequences of surveillance on dissent and repression. Our analysis underscores the dual function of surveillance as both a deterrent and a potential catalyst for resistance. By bridging disciplinary divides, this chapter offers a comprehensive framework for analyzing the evolving role of surveillance in contemporary governance.&lt;/p&gt;
+&lt;p&gt;監控研究：&lt;/p&gt;
+&lt;p&gt;監控是實現政治與社會控制的關鍵工具，不論是在威權政體還是民主政體中，都被廣泛用於監視民眾、壓制反對力量、維護政權穩定。儘管監控的應用已相當普遍，其概念在學術界仍屬於研究不足的階段，理論概念也充滿諸多爭議。政治學、社會學以及跨學科的監控研究，各自從不同角度詮釋監控的本質、手段與影響。本章在整合既有研究基礎上，提出一套新的分析框架，從兩個關鍵維度——可見性（公開與隱蔽）以及介面形式（人力與科技）——對各種監控手段進行分類。透過跨學科的觀點融合，本文提出一個層次化的監控對象模型，以及一套監控手段的類型分析，來突顯出政權在選擇監控策略時所面臨的策略考量。另外，本文亦進一步探討在委託式監控中所出現的代理問題、國家與企業推動監控擴張的背後動因，以及監控如何影響異議行為與政治壓制。我們的分析指出，監控同時具備震攝與激發反抗力量的兩種相反的功能。整體而言，我们的分析透過打破學科壁壘與觀點分歧，提供一個更為全面、系統的理論架構，以理解監控在當代政治治理中所扮演的多重角色與演變趨勢。&lt;/p&gt;
+&lt;p&gt;Citation:&lt;/br&gt;
+
+&lt;a href=&#34;https://www.degruyterbrill.com/document/isbn/9783111298559/html?lang=en&amp;amp;srsltid=AfmBOopHl8HL30aezSpIB2_fC-iml02FmZzo0cPshSdROEm2xLhNHrKz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liu, Howard and Deki Peldon. In &lt;em&gt;The Handbook of Political Control.&lt;/em&gt; De Gruyter, 2025.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Law or the Career? Autocratic Judiciaries, Strategic Sentencing, and Political Repression</title>
+      <link>https://howardhliu.com/publication/authoritarian-court/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/publication/authoritarian-court/</guid>
+      <description>&lt;p&gt;Why do judges sometimes act against autocrats’ will, even without judicial independence and tenure security? Contrary to the theory of strategic defection under weak governments, we argue that this behavior can also emerge under strong governments with lax monitoring. When autocrats primarily monitor severe political cases, judges can strategically downplay case severity to avoid oversight, thereby increasing judicial autonomy and the rule of law. Yet, these adjustments will be carefully calibrated–sufficient to evade scrutiny but not too drastic to trigger autocrats’ suspicions and incur sanctions against judges. We test this expectation with new data on Taiwan’s military trials during authoritarian rule, finding that judges tend not to issue sentences above a review threshold after its introduction. Sentence reductions are mostly moderate, affecting cases where sentences can fall slightly above or below the threshold under judges’ discretion. These findings have implications for understanding state repression and judicial agency in nondemocracies.&lt;/p&gt;
+&lt;p&gt;為什麼在缺乏司法獨立和任期保障的條件下，法官有時還會違背獨裁者的意願？與既有理論假設弱政府中會有戰略性叛逃的理論相反，我們認為這種行為也可能發生在監管鬆懈的強政府之下。當獨裁者主要關注重大政治案件時，法官可以策略性地降低案件的嚴重性，從而增強司法自主性和法治的實行。然而，這種判決嚴重度的調整通常會保持在適當的範圍內，既足以規避審查，又不至於過分激進以至於招致獨裁者的猜疑和懲罰。我們利用台灣威權統治時期的軍事審判新數據來驗證這一假設，結果顯示，引入監督門檻後，法官判決被告超過監督門檻的概率降低。這些判刑的減輕通常是適度的，根據法官的裁量權涉及可能略高於審查門檻的案件進行輕微的向下調整。這些發現對於理解威權政權下國家的鎮壓力度及司法機構的行為具有重要的啟示意義。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elite Competition, Local Extraction, and Social Unrest: Understanding Mass Protest in Authoritarian Regimes</title>
+      <link>https://howardhliu.com/talk/china/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking Dyads Seriously</title>
+      <link>https://howardhliu.com/talk/dyads/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/dyads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And the Heat Goes On: Police Repression and the Modalities of Power</title>
+      <link>https://howardhliu.com/talk/policing/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/policing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Leaves and Who Stays? Organizational Hierarchy and Rebel Fragmentation</title>
+      <link>https://howardhliu.com/talk/hierarchy/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation Infrastructure and Rebel Crime in Civil Wars</title>
+      <link>https://howardhliu.com/talk/road-warrior/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/talk/road-warrior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPP in Guatemala</title>
+      <link>https://howardhliu.com/courses/mpp-endline/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/mpp-endline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPP in Guatemala</title>
+      <link>https://howardhliu.com/post/mpp-endline/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/mpp-endline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generasi in Indonesia</title>
+      <link>https://howardhliu.com/courses/generasi-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/generasi-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generasi in Indonesia</title>
+      <link>https://howardhliu.com/post/generasi-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/generasi-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI301 - The Political Science Discipline</title>
+      <link>https://howardhliu.com/courses/poli301/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/poli301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI301 - The Political Science Discipline</title>
+      <link>https://howardhliu.com/post/poli301/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI416 - Revolution and Political Violence</title>
+      <link>https://howardhliu.com/courses/poli416/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/poli416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI416 - Revolution and Political Violence</title>
+      <link>https://howardhliu.com/post/poli416/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI437 - International Relations of Latin America</title>
+      <link>https://howardhliu.com/courses/poli437/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/poli437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLI437 - International Relations of Latin America</title>
+      <link>https://howardhliu.com/post/poli437/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/poli437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LRDP in Colombia</title>
+      <link>https://howardhliu.com/courses/lrdp-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/courses/lrdp-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LRDP in Colombia</title>
+      <link>https://howardhliu.com/post/lrdp-report/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/post/lrdp-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://howardhliu.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://howardhliu.com/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

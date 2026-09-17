@@ -1,0 +1,19 @@
+{{ $item := . }}
+
+{{/* Application pages: featured image plus a call-to-action link. */}}
+{{ if eq $item.Type "application" }}
+<div class="card-simple apply-card">
+  {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+  {{ with $resource }}
+  {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
+  <a href="{{ $item.RelPermalink }}">
+      <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}">
+  </a>
+  {{ end }}
+  <a href="{{ $item.RelPermalink }}" class="apply-cta">{{ $item.Title }} <i class="fas fa-arrow-right"></i></a>
+  <a href="/apply/" class="btn btn-outline-primary btn-sm apply-portal-btn">Application portal</a>
+</div>
+{{ else }}
+{{ partial "li_card_default" $item }}
+{{ end }}

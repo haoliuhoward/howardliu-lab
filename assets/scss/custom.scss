@@ -3,3 +3,142 @@ nav#navbar-main li.nav-item {
   font-size: 16px;
   font-weight: bold;
 }
+/* "Apply to Join" card call-to-action link */
+.apply-card .apply-cta {
+  display: block;
+  margin-top: 1rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #EF525B;
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+.apply-card .apply-cta i {
+  margin-left: 0.3em;
+  transition: transform 0.2s ease;
+}
+.apply-card .apply-cta:hover {
+  color: #00828B;
+  text-decoration: none;
+}
+.apply-card .apply-cta:hover i {
+  transform: translateX(4px);
+}
+
+/* ---------- Application portal (/apply/) ---------- */
+.apply-intro {
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #EF525B;
+  background: rgba(239, 82, 91, 0.06);
+  border-radius: 4px;
+}
+.apply-form .apply-section {
+  margin-bottom: 2.5rem;
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+.apply-form legend {
+  font-size: 1.35rem;
+  font-weight: bold;
+  width: auto;
+  padding: 0 0.5rem;
+  margin-bottom: 1rem;
+}
+.apply-form .apply-step {
+  display: inline-block;
+  width: 1.9rem;
+  height: 1.9rem;
+  line-height: 1.9rem;
+  margin-right: 0.4rem;
+  text-align: center;
+  font-size: 1rem;
+  color: #fff;
+  background: #EF525B;
+  border-radius: 50%;
+}
+.apply-form .apply-help {
+  color: #666;
+  margin-bottom: 1.25rem;
+}
+.apply-form label {
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+.apply-form .custom-control-label {
+  font-weight: normal;
+}
+.apply-form .req {
+  color: #EF525B;
+}
+.apply-form .form-control:focus {
+  border-color: #24C2CB;
+  box-shadow: 0 0 0 0.2rem rgba(36, 194, 203, 0.25);
+}
+.apply-form .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: #EF525B;
+  border-color: #EF525B;
+}
+.apply-form .apply-essay .q-num {
+  color: #EF525B;
+  margin-right: 0.25rem;
+}
+.apply-form .apply-essay textarea {
+  line-height: 1.6;
+}
+.apply-form .word-count {
+  text-align: right;
+  margin-top: 0.25rem;
+}
+.apply-form .apply-submit {
+  background: #EF525B;
+  border-color: #EF525B;
+  font-weight: bold;
+  padding: 0.6rem 1.75rem;
+}
+.apply-form .apply-submit:hover,
+.apply-form .apply-submit:focus {
+  background: #00828B;
+  border-color: #00828B;
+}
+.apply-form .apply-clear {
+  color: #888;
+}
+.apply-form.was-validated .form-control:invalid,
+.apply-form.was-validated .custom-control-input:invalid ~ .custom-control-label::before {
+  border-color: #dc3545;
+}
+.apply-thanks {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto;
+}
+.apply-thanks ol {
+  text-align: left;
+  display: inline-block;
+}
+.apply-thanks-icon {
+  font-size: 3.5rem;
+  color: #00828B;
+  margin-bottom: 0.5rem;
+}
+
+.apply-card .apply-portal-btn {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+.apply-portal-cta {
+  margin: 1.5rem 0;
+}
+.apply-portal-cta .btn-primary {
+  background: #EF525B;
+  border-color: #EF525B;
+  font-weight: bold;
+}
+.apply-portal-cta .btn-primary:hover {
+  background: #00828B;
+  border-color: #00828B;
+}

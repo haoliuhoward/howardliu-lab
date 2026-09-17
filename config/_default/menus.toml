@@ -30,10 +30,10 @@
   weight = 35
 
 
-#[[main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 40
+[[main]]
+  name = "Apply to Join"
+  url = "#apply"
+  weight = 40
 
 #[[main]]
 #  name = "Office Hours Sign-up"

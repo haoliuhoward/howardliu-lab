@@ -1,0 +1,325 @@
+{{/*
+  Liu Lab undergraduate application form.
+  Handled by Netlify Forms (site is deployed on Netlify): submissions appear
+  under Site > Forms in the Netlify dashboard. Enable "form detection" once
+  in Netlify (Site configuration > Forms) and add an email notification.
+*/}}
+<form
+  name="liu-lab-application"
+  method="POST"
+  action="/apply/thanks/"
+  enctype="multipart/form-data"
+  data-netlify="true"
+  netlify-honeypot="bot-field"
+  class="apply-form"
+  id="apply-form"
+  novalidate
+>
+  <input type="hidden" name="form-name" value="liu-lab-application">
+  <p class="d-none">
+    <label>Don't fill this out if you're human: <input name="bot-field"></label>
+  </p>
+
+  {{/* ---------- 1. About you ---------- */}}
+  <fieldset class="apply-section">
+    <legend><span class="apply-step">1</span> About you</legend>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="full_name">Full name <span class="req">*</span></label>
+        <input type="text" class="form-control" id="full_name" name="full_name" autocomplete="name" required>
+      </div>
+      <div class="form-group col-md-6">
+        <label for="preferred_name">Preferred name / pronouns <small class="text-muted">(optional)</small></label>
+        <input type="text" class="form-control" id="preferred_name" name="preferred_name">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="email">USC email <span class="req">*</span></label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="you@email.sc.edu" autocomplete="email" required>
+      </div>
+      <div class="form-group col-md-6">
+        <label for="phone">Phone <small class="text-muted">(optional)</small></label>
+        <input type="tel" class="form-control" id="phone" name="phone" autocomplete="tel">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="major">Major(s) <span class="req">*</span></label>
+        <input type="text" class="form-control" id="major" name="major" placeholder="e.g. Political Science" required>
+      </div>
+      <div class="form-group col-md-6">
+        <label for="minor">Minor(s) / concentration <small class="text-muted">(optional)</small></label>
+        <input type="text" class="form-control" id="minor" name="minor">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-4">
+        <label for="class_standing">Class standing <span class="req">*</span></label>
+        <select class="form-control" id="class_standing" name="class_standing" required>
+          <option value="" selected disabled>Select…</option>
+          <option>First-year</option>
+          <option>Sophomore</option>
+          <option>Junior</option>
+          <option>Senior</option>
+        </select>
+      </div>
+      <div class="form-group col-md-4">
+        <label for="graduation">Expected graduation <span class="req">*</span></label>
+        <input type="text" class="form-control" id="graduation" name="graduation" placeholder="e.g. May 2028" required>
+      </div>
+      <div class="form-group col-md-4">
+        <label for="gpa">Current GPA <span class="req">*</span></label>
+        <input type="number" class="form-control" id="gpa" name="gpa" min="0" max="4" step="0.01" placeholder="e.g. 3.65" required>
+        <small class="form-text text-muted">No minimum, but see the <a href="https://www.dropbox.com/scl/fi/lvlgxtnoffurd2fpbl3tg/Applicant-manual.pdf?rlkey=b777jxfm4ciadocgkv6xnogge&dl=0" target="_blank" rel="noopener">Applicant Manual</a> on GPA.</small>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="semester">Semester you are applying to join <span class="req">*</span></label>
+      <select class="form-control" id="semester" name="semester" required>
+        <option value="" selected disabled>Select…</option>
+        <option>Spring 2027</option>
+        <option>Fall 2027</option>
+        <option>Spring 2028</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="referral">How did you hear about the lab? <small class="text-muted">(optional)</small></label>
+      <input type="text" class="form-control" id="referral" name="referral" placeholder="e.g. POLI class, a current member, Office of Undergraduate Research">
+    </div>
+  </fieldset>
+
+  {{/* ---------- 2. Background & skills ---------- */}}
+  <fieldset class="apply-section">
+    <legend><span class="apply-step">2</span> Background &amp; skills</legend>
+    <p class="apply-help">None of these are prerequisites. They help us match you to a project and a mentor.</p>
+
+    <div class="form-group">
+      <label for="coursework">Relevant coursework <small class="text-muted">(statistics, research methods, data science, area studies, etc.)</small></label>
+      <textarea class="form-control" id="coursework" name="coursework" rows="3" placeholder="e.g. POLI 301, STAT 201, CSCE 145 (in progress)"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label class="d-block">Programming experience</label>
+      <div class="form-row">
+        <div class="col-md-6 form-group mb-2">
+          <label for="skill_r" class="small mb-1">R</label>
+          <select class="form-control form-control-sm" id="skill_r" name="skill_r">
+            <option>None</option>
+            <option>Beginner (a class or tutorial)</option>
+            <option>Intermediate (own analyses, tidyverse)</option>
+            <option>Advanced (packages, pipelines, modeling)</option>
+          </select>
+        </div>
+        <div class="col-md-6 form-group mb-2">
+          <label for="skill_python" class="small mb-1">Python</label>
+          <select class="form-control form-control-sm" id="skill_python" name="skill_python">
+            <option>None</option>
+            <option>Beginner (a class or tutorial)</option>
+            <option>Intermediate (pandas, scripting)</option>
+            <option>Advanced (ML / LLM / scraping projects)</option>
+          </select>
+        </div>
+      </div>
+      <input type="text" class="form-control" id="skill_other" name="skill_other" placeholder="Other tools: Stata, SQL, GIS, Git, Excel, AI tools (Claude/Codex)…">
+    </div>
+
+    <div class="form-group">
+      <label for="languages">Language skills <small class="text-muted">(especially Mandarin Chinese; note reading/speaking level)</small></label>
+      <input type="text" class="form-control" id="languages" name="languages" placeholder="e.g. Mandarin (heritage speaker, reads simplified), Spanish (intermediate)">
+    </div>
+
+    <div class="form-group">
+      <label for="region_experience">Experience living in, studying, or following a relevant region <small class="text-muted">(optional)</small></label>
+      <input type="text" class="form-control" id="region_experience" name="region_experience" placeholder="e.g. study abroad in Taipei; family from Hong Kong; coursework on Latin America">
+    </div>
+
+    <div class="form-group">
+      <label class="d-block">Which of these sounds most like you? <small class="text-muted">(pick any; see the “Skill Sets” section of the manual)</small></label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" id="type_analyst" name="profile[]" value="Analyst">
+        <label class="custom-control-label" for="type_analyst"><strong>The Analyst</strong> — I want to master research design and data analysis to run my own studies.</label>
+      </div>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" id="type_fixer" name="profile[]" value="Fixer">
+        <label class="custom-control-label" for="type_fixer"><strong>The Fixer</strong> — I'm organized and reliable; I like keeping projects and people on track.</label>
+      </div>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" id="type_comp" name="profile[]" value="Computational Researcher">
+        <label class="custom-control-label" for="type_comp"><strong>The Computational Researcher</strong> — I have (or want) data-science and programming skills to build datasets and pipelines.</label>
+      </div>
+    </div>
+  </fieldset>
+
+  {{/* ---------- 3. Commitment ---------- */}}
+  <fieldset class="apply-section">
+    <legend><span class="apply-step">3</span> Commitment</legend>
+    <p class="apply-help">Please confirm you have read the <a href="/application/application-undergrad/">time commitment</a> and can meet it.</p>
+
+    <div class="custom-control custom-checkbox mb-2">
+      <input type="checkbox" class="custom-control-input" id="c_meeting" name="confirm_meeting" value="yes" required>
+      <label class="custom-control-label" for="c_meeting">I can attend the weekly lab meeting on <strong>Tuesdays, 12:00–1:00 p.m.</strong> <span class="req">*</span></label>
+    </div>
+    <div class="custom-control custom-checkbox mb-2">
+      <input type="checkbox" class="custom-control-input" id="c_hours" name="confirm_hours" value="yes" required>
+      <label class="custom-control-label" for="c_hours">I can commit <strong>5–10 hours per week</strong> to lab work in addition to meetings. <span class="req">*</span></label>
+    </div>
+    <div class="custom-control custom-checkbox mb-2">
+      <input type="checkbox" class="custom-control-input" id="c_credits" name="confirm_poli498" value="yes" required>
+      <label class="custom-control-label" for="c_credits">I will enroll in <strong>two credits of POLI 498 (Research Experience)</strong> if admitted. <span class="req">*</span></label>
+    </div>
+    <div class="custom-control custom-checkbox mb-2">
+      <input type="checkbox" class="custom-control-input" id="c_multiyear" name="confirm_multiyear" value="yes">
+      <label class="custom-control-label" for="c_multiyear">I am interested in staying in the lab for more than one semester.</label>
+    </div>
+    <div class="custom-control custom-checkbox mb-3">
+      <input type="checkbox" class="custom-control-input" id="c_funding" name="interest_funding" value="yes">
+      <label class="custom-control-label" for="c_funding">I would like help applying for <a href="https://sc.edu/about/offices_and_divisions/undergraduate_research/" target="_blank" rel="noopener">Undergraduate Research Funds</a> (e.g. Magellan).</label>
+    </div>
+
+    <div class="form-group">
+      <label for="other_commitments">Other major commitments this semester <small class="text-muted">(jobs, athletics, leadership roles — optional)</small></label>
+      <input type="text" class="form-control" id="other_commitments" name="other_commitments">
+    </div>
+  </fieldset>
+
+  {{/* ---------- 4. Short answers ---------- */}}
+  <fieldset class="apply-section">
+    <legend><span class="apply-step">4</span> Short-answer questions</legend>
+    <p class="apply-help">
+      Aim for roughly <strong>150–300 words</strong> per answer. Your answers are evaluated for content
+      <em>and</em> as a signal of how clearly you think and write, so proofread before you submit.
+      Your draft is saved in this browser automatically.
+    </p>
+
+    <div class="form-group apply-essay">
+      <label for="q1"><span class="q-num">Q1.</span> Why are you interested in becoming a part of the Liu Lab? What do you hope to gain from the experience? <span class="req">*</span></label>
+      <textarea class="form-control" id="q1" name="q1" rows="8" required data-words></textarea>
+      <div class="word-count text-muted small"></div>
+    </div>
+
+    <div class="form-group apply-essay">
+      <label for="q2"><span class="q-num">Q2.</span> After looking at the <a href="/#projects">lab website</a>, which research project is most interesting to you and why? <span class="req">*</span></label>
+      <textarea class="form-control" id="q2" name="q2" rows="8" required data-words></textarea>
+      <div class="word-count text-muted small"></div>
+    </div>
+
+    <div class="form-group apply-essay">
+      <label for="q3"><span class="q-num">Q3.</span> Tell me a bit about what makes you tick, as it relates to the study of authoritarian politics, repression, or political conflict. <span class="req">*</span></label>
+      <small class="form-text text-muted mb-2">This can be an observation or question from following politics at home or abroad, a reading or unit in a class you found especially interesting, or the motivation for what you want to do after graduation. A fully formed research question is not expected — we want to know what interests you.</small>
+      <textarea class="form-control" id="q3" name="q3" rows="8" required data-words></textarea>
+      <div class="word-count text-muted small"></div>
+    </div>
+
+    <div class="form-group apply-essay">
+      <label for="q4"><span class="q-num">Q4.</span> What skills or experiences do you have that would make you a valuable part of the lab? <span class="req">*</span></label>
+      <small class="form-text text-muted mb-2">Coursework in statistics or research methods, programming (R, Python, other), language skills (especially Mandarin Chinese), experience living in or studying a relevant region, and experience organizing people or projects.</small>
+      <textarea class="form-control" id="q4" name="q4" rows="8" required data-words></textarea>
+      <div class="word-count text-muted small"></div>
+    </div>
+  </fieldset>
+
+  {{/* ---------- 5. Documents ---------- */}}
+  <fieldset class="apply-section">
+    <legend><span class="apply-step">5</span> Documents</legend>
+    <div class="form-group">
+      <label for="cv">Résumé / CV <span class="req">*</span> <small class="text-muted">(PDF, max 5 MB)</small></label>
+      <input type="file" class="form-control-file" id="cv" name="cv" accept=".pdf" required>
+    </div>
+    <div class="form-group">
+      <label for="transcript">Unofficial transcript <small class="text-muted">(PDF, optional — Self Service Carolina export is fine)</small></label>
+      <input type="file" class="form-control-file" id="transcript" name="transcript" accept=".pdf">
+    </div>
+    <div class="form-group">
+      <label for="writing_sample">Writing sample <small class="text-muted">(PDF, optional — a course paper you are proud of)</small></label>
+      <input type="file" class="form-control-file" id="writing_sample" name="writing_sample" accept=".pdf">
+    </div>
+  </fieldset>
+
+  {{/* ---------- Attestation & submit ---------- */}}
+  <fieldset class="apply-section">
+    <div class="custom-control custom-checkbox mb-3">
+      <input type="checkbox" class="custom-control-input" id="attest" name="attest" value="yes" required>
+      <label class="custom-control-label" for="attest">I confirm that the information above is accurate and that the short answers are my own writing. <span class="req">*</span></label>
+    </div>
+    <div class="apply-error alert alert-danger d-none" role="alert">
+      Please complete all required fields (marked <span class="req">*</span>) before submitting.
+    </div>
+    <button type="submit" class="btn btn-primary btn-lg apply-submit">Submit application <i class="fas fa-paper-plane ml-1"></i></button>
+    <button type="button" class="btn btn-link apply-clear">Clear saved draft</button>
+  </fieldset>
+</form>
+
+<script>
+(function () {
+  var form = document.getElementById('apply-form');
+  if (!form) return;
+  var KEY = 'liu-lab-application-draft';
+
+  /* word counters */
+  function countWords(s) { s = s.trim(); return s ? s.split(/\s+/).length : 0; }
+  form.querySelectorAll('textarea[data-words]').forEach(function (ta) {
+    var out = ta.parentNode.querySelector('.word-count');
+    function update() { out.textContent = countWords(ta.value) + ' words'; }
+    ta.addEventListener('input', update); update();
+  });
+
+  /* draft autosave (text fields only; files cannot be persisted) */
+  var fields = form.querySelectorAll('input:not([type=file]):not([type=hidden]):not([name=bot-field]), select, textarea');
+  function save() {
+    var data = {};
+    fields.forEach(function (f) {
+      if (f.type === 'checkbox') data[f.id] = f.checked; else data[f.id] = f.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return; }
+    if (!raw) return;
+    var data = JSON.parse(raw);
+    fields.forEach(function (f) {
+      if (!(f.id in data)) return;
+      if (f.type === 'checkbox') f.checked = !!data[f.id]; else f.value = data[f.id];
+      f.dispatchEvent(new Event('input'));
+    });
+  }
+  restore();
+  fields.forEach(function (f) { f.addEventListener('input', save); f.addEventListener('change', save); });
+
+  form.querySelector('.apply-clear').addEventListener('click', function () {
+    if (!confirm('Clear your saved draft and reset the form?')) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    form.reset();
+    form.querySelectorAll('textarea[data-words]').forEach(function (ta) { ta.dispatchEvent(new Event('input')); });
+  });
+
+  /* client-side validation */
+  form.addEventListener('submit', function (e) {
+    var err = form.querySelector('.apply-error');
+    if (!form.checkValidity()) {
+      e.preventDefault();
+      form.classList.add('was-validated');
+      err.classList.remove('d-none');
+      var first = form.querySelector(':invalid');
+      if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      return;
+    }
+    var cv = form.querySelector('#cv');
+    if (cv.files[0] && cv.files[0].size > 5 * 1024 * 1024) {
+      e.preventDefault();
+      err.textContent = 'Your CV is larger than 5 MB. Please compress it and try again.';
+      err.classList.remove('d-none');
+      return;
+    }
+    err.classList.add('d-none');
+    try { localStorage.removeItem(KEY); } catch (e2) {}
+    form.querySelector('.apply-submit').disabled = true;
+  });
+})();
+</script>
