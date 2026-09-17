@@ -8,3 +8,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"

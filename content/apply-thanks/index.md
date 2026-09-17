@@ -22,7 +22,7 @@ Thank you — your application to the Liu Research Lab has been submitted.
 3. Admitted members enroll in two credits of POLI 498 and join the Tuesday 12:00–1:00 p.m. lab meeting the following semester.
 
 If you have questions in the meantime, or need to correct something in your application, email
-[howard.hl.liu@gmail.com](mailto:howard.hl.liu@gmail.com) with "Lab application" in the subject line.
+[howard.liu@sc.edu](mailto:howard.liu@sc.edu) with "Lab application" in the subject line.
 
 [← Back to the lab homepage](/)
 
