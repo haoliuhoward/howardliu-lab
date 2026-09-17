@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# stray local Hugo output (site is built by Netlify)
+'public'/

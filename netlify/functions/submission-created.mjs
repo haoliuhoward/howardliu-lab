@@ -163,7 +163,6 @@ function buildHtml(p) {
     ${row("Python", d.skill_python)}
     ${row("Other tools", d.skill_other)}
     ${row("Languages", d.languages)}
-    ${row("Region experience", d.region_experience)}
     ${row("Self-described type", prof.length ? prof.map((x) => `<span style="display:inline-block;margin:0 6px 4px 0;padding:3px 10px;border-radius:12px;background:${TEAL};color:#fff;font-size:12px;font-weight:600">${esc(x)}</span>`).join("") : "", { raw: prof.length > 0 })}
 
     ${sectionTitle("Commitment")}
@@ -217,7 +216,6 @@ function buildMarkdown(p) {
   out.push(line("Python", d.skill_python));
   out.push(line("Other tools", d.skill_other));
   out.push(line("Languages", d.languages));
-  out.push(line("Region experience", d.region_experience));
   out.push(line("Self-described type", profiles(d).join(", ")));
   out.push("");
   out.push("## Commitment");
